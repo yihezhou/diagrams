@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T12:09:39.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="17.4.6" etag="RZ2GPDsUdSlog52hvcnp" type="github"><diagram id="HKDHm3W87b2fDyW11oWb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T12:36:59.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kmh93A9Q0nzOKc1irZ2i" version="17.4.6" type="github">
+  <diagram id="HKDHm3W87b2fDyW11oWb" name="Page-1">
+    <mxGraphModel dx="1497" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-1" value="存储软件平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="1320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-2" value="&lt;span&gt;基础资源数据(服务器，磁盘，网卡......)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-3" value="资源使用的指标数据&amp;amp;应用指标数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-4" value="存储平台的日志数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-5" value="Python-Cli&lt;br&gt;（安装命令，资源信息数据获取命令）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-6" value="Prometheus Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-7" value="Prometheus Target 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-8" value="Prometheus Target 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-10" value="AlertManager" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-11" value="API &amp;amp; Webhook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="1310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-12" value="管理日志数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yw1eaSJNUBTZV5YgKpg-13" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
