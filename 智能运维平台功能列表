@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T06:42:29.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kAluAZ6O1rALzrMjQKNQ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T06:43:44.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uHAPXQXeeW0uRlbFMJol" version="20.0.1" type="github">
   <diagram id="HuLiLDLRK6yRzV0u8O3H" name="Page-1">
     <mxGraphModel dx="1497" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -74,13 +74,16 @@
           <mxGeometry x="1090" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHzt8m6FHxy4rrxGcZ44-23" value="交互式运维算法建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHzt8m6FHxy4rrxGcZ44-24" value="版本图例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1260" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iHzt8m6FHxy4rrxGcZ44-25" value="智能运维平台的功能模块划分与开发计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iHzt8m6FHxy4rrxGcZ44-26" value="故障自修复" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
