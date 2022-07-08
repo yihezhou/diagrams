@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T06:07:22.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="-gUCKT8Fo1MS2wz5vk_s" type="github"><diagram id="iEC1zkr8oLWfsnhOzjhk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-08T09:15:28.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2VGKmDK0cIC5ajn2sAAD" version="20.0.3" type="github">
+  <diagram id="iEC1zkr8oLWfsnhOzjhk" name="Page-1">
+    <mxGraphModel dx="1185" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-1" value="旧节点备份文件&lt;br&gt;glusterd/&amp;nbsp; &amp;nbsp; hosts&amp;nbsp; &amp;nbsp; &amp;nbsp; fstab&amp;nbsp; &amp;nbsp; &lt;br&gt;mydb.sql(如果替换的是主节点)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-2" value="旧节点文件放到对应新节点位置，&lt;br&gt;新节点创建/opt/xdfs-mgnt/mgnt.conf配置文件&lt;br&gt;执行./replace.sh&amp;nbsp; 进行fstab新旧UUID替换&lt;br&gt;和可能的mysql备份" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="290" width="255" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-1" target="XGYNvTb6--RoJGn8E_GQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-4" value="拔盘，移到新节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="245" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-5" value="循环并检测出&amp;nbsp; 旧UUID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="420" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-2" target="XGYNvTb6--RoJGn8E_GQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="540" as="sourcePoint" />
+            <mxPoint x="570" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-7" value="new-uuid-list" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="410" y="245" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-8" value="old-uuid-list" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-2" target="XGYNvTb6--RoJGn8E_GQ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XGYNvTb6--RoJGn8E_GQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-5" target="XGYNvTb6--RoJGn8E_GQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="510" as="sourcePoint" />
+            <mxPoint x="490" y="461.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-16" value="根据检测出的&amp;nbsp; 旧uuid&amp;nbsp; &amp;nbsp;&lt;br&gt;查询得到&amp;nbsp; 旧disk_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-17" value="{&lt;br&gt;&quot;旧uuid&quot;: &quot;1111&quot;&lt;br&gt;}" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="415" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-20" value="查询redis和mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-5" target="XGYNvTb6--RoJGn8E_GQ-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;执行disk_id替换&lt;/font&gt;&lt;br&gt;在当前的新节点上&amp;nbsp; 创建celery task&lt;br&gt;def replace_diskid(queue=master):&lt;br&gt;mysql.conn()&lt;br&gt;mysql.exec(update from disk set disk_id=11 where fmt_uuid=11111)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="680" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGYNvTb6--RoJGn8E_GQ-20" target="XGYNvTb6--RoJGn8E_GQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="830" as="sourcePoint" />
+            <mxPoint x="440" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGYNvTb6--RoJGn8E_GQ-24" value="{&lt;br&gt;&quot;uuid&quot;:&quot;11111&quot;,&lt;br&gt;&quot;disk_id&quot;: 11&lt;br&gt;}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="520" y="535" width="180" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
