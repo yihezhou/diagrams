@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T10:38:01.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2OcK3Ph0mf7hrmxgYCQk" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T10:42:06.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="62CQFGHlXvSwmg5pdQk0" version="20.2.3" type="github">
   <diagram id="VrnoyGcVU1upVnoauTKz" name="第 1 页">
     <mxGraphModel dx="3197" dy="1387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,6 +351,9 @@
         </mxCell>
         <mxCell id="pbJUK0FR29wtGIGSIATQ-31" value="docker build" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbJUK0FR29wtGIGSIATQ-32" value="docker in docker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1450" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
