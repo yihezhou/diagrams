@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T03:46:36.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tg81t_PAqCLPl1HuPTdD" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T06:47:20.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CN31dHvaK6mxIG4dZb1n" version="20.2.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="981" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,63 +237,63 @@
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119.83" y="1080" as="sourcePoint" />
-            <mxPoint x="119.83" y="680" as="targetPoint" />
+            <mxPoint x="99.83" y="1245" as="sourcePoint" />
+            <mxPoint x="100" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="1080" as="sourcePoint" />
-            <mxPoint x="1120" y="1080" as="targetPoint" />
+            <mxPoint x="100" y="1245" as="sourcePoint" />
+            <mxPoint x="1180" y="1245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-5" value="TaoAIOps Roadmap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="120" y="635" width="220" height="40" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-5" value="TaoAIOps Roadmap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="105" y="660" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-6" value="自然年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1060" width="90" height="40" as="geometry" />
+          <mxGeometry x="1180" y="1225" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-7" value="2022Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="1275" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-8" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=22;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1080" width="20" height="30" as="geometry" />
+          <mxGeometry x="90" y="1245" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-9" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=22;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1080" width="20" height="30" as="geometry" />
+          <mxGeometry x="350" y="1245" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-10" value="2023Q1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="1275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-11" value="TaoAIOps v1.0&lt;br style=&quot;font-size: 11px;&quot;&gt;(智能运维工具taocli)&lt;br style=&quot;font-size: 11px;&quot;&gt;- 节点健康监测&lt;br&gt;-- 基础环境监测(安装，配置，端口)&lt;br&gt;- -硬件监测(cpu,memory,net,disk)&lt;br style=&quot;font-size: 11px;&quot;&gt;- - 服务监测(主要进程)&lt;br&gt;- - 监控&lt;span style=&quot;font-family: 微软雅黑; font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 24px; text-align: start; widows: 1;&quot;&gt;脑裂文件&lt;/span&gt;&lt;br&gt;- 维护模式&lt;br&gt;- - 替换节点，brick&lt;br&gt;- -&amp;nbsp;&lt;span style=&quot;font-family: 微软雅黑; font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 24px; text-align: start; widows: 1;&quot;&gt;配置raid&lt;br&gt;&lt;/span&gt;- - 一键安装辅助工具&lt;br&gt;&lt;br&gt;- 故障分析&amp;amp;恢复&lt;br&gt;- 自动操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="750" width="180" height="310" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-11" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;TaoAIOps v1.0&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(智能运维工具taocli)&lt;/span&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;节点健康监测&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; 基础环境监测(安装，配置，端口)&lt;/font&gt;&lt;/blockquote&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&amp;nbsp;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;硬件监测&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 服务监测(主要进程)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;监控&lt;span style=&quot;font-family: 微软雅黑; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 24px; widows: 1; font-size: 11px;&quot;&gt;脑裂文件&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;维护模式&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;替换节点与brick&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-variant-numeric: normal; font-variant-east-asian: normal; line-height: 24px; widows: 1; font-size: 11px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;配置raid&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;一键安装辅助工具&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;故障分析与恢复&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;自动操作&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="113.85" y="885" width="236.15" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-12" value="TaoAIOps v1.1&lt;br&gt;(日志采集大数据平台ELK)&lt;br&gt;- 日志标准化&lt;br&gt;- 日志集中收集&lt;br&gt;- TaoAIOps平台前后端开发&lt;br&gt;- taocli的系统集成&amp;nbsp;&lt;br&gt;- 关键日志分析&lt;br&gt;--自定义日志分析面板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="830" width="200" height="170" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TaoAIOps v1.1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(日志采集大数据平台ELK)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;日志标准化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;日志集中收集&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TaoAIOps平台前后端开发&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;taocli的系统集成&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;关键日志搜索&amp;amp;分析&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;自定义日志分析面板&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="402.62" y="825" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-13" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=22;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1080" width="20" height="30" as="geometry" />
+          <mxGeometry x="590" y="1245" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-14" value="2023Q2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="550" y="1275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-15" value="TaoAIOps v2.0&lt;br&gt;(Prom监控告警)&lt;br&gt;- 关键指标监控&lt;br&gt;-- 主机&amp;amp;存储指标&lt;br&gt;- 关键指标告警&lt;br&gt;-- 主机&amp;amp;存储告警&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="600" y="720" width="180" height="230" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TaoAIOps v2.0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Prom监控告警)&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;关键指标监控&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;告警管理&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;告警规则管理&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;告警记录管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="660" y="790" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-16" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=22;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1080" width="20" height="30" as="geometry" />
+          <mxGeometry x="830" y="1245" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-17" value="2023Q3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="790" y="1275" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-18" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=22;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1080" width="20" height="30" as="geometry" />
+          <mxGeometry x="1070" y="1245" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-19" value="2023Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="987.85" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="1030" y="1275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-20" value="TaoAIOps v2.1&lt;br&gt;(智能运维决策算法)&lt;br&gt;- 智能容量预测&lt;br&gt;- 智能异常检测&lt;br&gt;- 智能故障诊断&lt;br&gt;- 故障自愈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="830" y="660" width="180" height="230" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-20" value="TaoAIOps v2.1&lt;br style=&quot;font-size: 14px;&quot;&gt;(智能运维决策算法)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;智能容量预测&lt;/li&gt;&lt;li&gt;智能异常检测&lt;/li&gt;&lt;li&gt;智能故障诊断&lt;/li&gt;&lt;li&gt;故障自愈&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="900" y="730" width="175" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
