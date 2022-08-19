@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T09:55:03.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_D5RmjKlsoQmS6AfHFMf" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T01:56:25.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LMyWgfrJklGlm1VLXJru" version="20.2.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2785" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -304,35 +304,35 @@
         <mxCell id="tR1yyYKcrdSd5KUUS996-26" value="taocli" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="600" y="1400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;taocli&amp;nbsp; xdfs&amp;nbsp; &amp;nbsp;check-conf&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -c&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; keepalived.conf&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; taocli&amp;nbsp; fass&amp;nbsp; &amp;nbsp;check-process&amp;nbsp; &amp;nbsp; --name&amp;nbsp; redis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1450" width="760" height="60" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-28" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;taocli&amp;nbsp; xdfs&amp;nbsp; &amp;nbsp;check-conf&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -c&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; keepalived.conf&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; taocli&amp;nbsp; fass&amp;nbsp; &amp;nbsp;check-process&amp;nbsp; &amp;nbsp; --name&amp;nbsp; redis&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;taocli&amp;nbsp; system&amp;nbsp; check-disk&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;--name&amp;nbsp; &amp;nbsp;sdb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1435" width="760" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="44.81999999999999" y="1540" as="sourcePoint" />
-            <mxPoint x="44.81999999999999" y="1510" as="targetPoint" />
+            <mxPoint x="44.81999999999999" y="1615" as="sourcePoint" />
+            <mxPoint x="44.81999999999999" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-32" value="主命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="4.819999999999993" y="1545" width="60" height="30" as="geometry" />
+          <mxGeometry x="4.819999999999993" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="114.82" y="1540" as="sourcePoint" />
-            <mxPoint x="114.82" y="1510" as="targetPoint" />
+            <mxPoint x="114.82" y="1615" as="sourcePoint" />
+            <mxPoint x="114.82" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tR1yyYKcrdSd5KUUS996-34" value="命令空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="79.82" y="1545" width="70" height="30" as="geometry" />
+        <mxCell id="tR1yyYKcrdSd5KUUS996-34" value="命令组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="84.82" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="204.82" y="1540" as="sourcePoint" />
-            <mxPoint x="204.82" y="1510" as="targetPoint" />
+            <mxPoint x="204.82" y="1615" as="sourcePoint" />
+            <mxPoint x="204.82" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-36" value="子命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="174.82" y="1545" width="60" height="30" as="geometry" />
+          <mxGeometry x="174.82" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-39" value="ES-cluster" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="800" y="1400" width="100" height="30" as="geometry" />
@@ -438,21 +438,21 @@
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="304.82" y="1540" as="sourcePoint" />
-            <mxPoint x="304.82" y="1510" as="targetPoint" />
+            <mxPoint x="304.82" y="1615" as="sourcePoint" />
+            <mxPoint x="304.82" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-67" value="选项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="279.64" y="1545" width="50" height="30" as="geometry" />
+          <mxGeometry x="279.64" y="1620" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-69" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="1540" as="sourcePoint" />
-            <mxPoint x="380" y="1510" as="targetPoint" />
+            <mxPoint x="380" y="1615" as="sourcePoint" />
+            <mxPoint x="380" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-70" value="&amp;nbsp;参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="354.82" y="1545" width="50" height="30" as="geometry" />
+          <mxGeometry x="354.82" y="1620" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tR1yyYKcrdSd5KUUS996-71" value="TaoCli&lt;br&gt;&amp;gt;_" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="140" y="1370" width="80" height="80" as="geometry" />
