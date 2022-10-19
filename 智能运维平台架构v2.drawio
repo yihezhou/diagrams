@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T03:22:43.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xJIwrPWNFUyfpIVAPz16" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T03:36:11.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6ZZUg1bUVdzcZ6tt2cRi" version="20.4.1" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2782" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -973,8 +973,8 @@
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 用户管理：记录运维人员的用户表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="905" y="1900" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xWN14-OgWOWJWMfU6hnZ-3" value="主机管理：记录此项目下的物理机和管理IP等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2000" width="420" height="40" as="geometry" />
+        <mxCell id="xWN14-OgWOWJWMfU6hnZ-3" value="主机管理：记录此项目下的物理机和管理IP，内存，CPU等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1028.75" y="2000" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-4" value="项目管理：记录此项目是哪个存储产品，版本，项目开始日期，项目负责人等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1028.75" y="1950" width="700" height="40" as="geometry" />
