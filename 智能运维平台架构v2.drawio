@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T03:36:53.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EaQ_BYF0HFsnukDutrAs" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T06:30:52.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hY_1wJ0GoSY4eZB9jihJ" version="20.4.1" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2782" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -655,8 +655,8 @@
         <mxCell id="PTs0oj5LiO3yOLS5tf2K-1" value="CMDB设计原则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
           <mxGeometry y="4530" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PTs0oj5LiO3yOLS5tf2K-2" value="1、配置项的维护要深度使用自动发现，而不是人工维护&lt;br&gt;2、核心述求是应用生命周期管理，以应用为中心&lt;br&gt;3、避免大而全的表关系，以公司实际的运维场景和需求出发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="4.819999999999993" y="4580" width="690" height="100" as="geometry" />
+        <mxCell id="PTs0oj5LiO3yOLS5tf2K-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1、配置项的维护要深度使用自动发现，而不是人工维护&lt;br&gt;2、核心述求是应用生命周期管理，以应用为中心&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3、避免大而全的表关系，以公司实际的运维场景和需求出发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
+          <mxGeometry x="-45.00000000000001" y="4570" width="810" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PTs0oj5LiO3yOLS5tf2K-3" value="Product" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="100" y="4800" width="560" height="220" as="geometry" />
@@ -1017,6 +1017,9 @@
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-17" value="主机监控管理：展示主机关键指标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1030" y="2680" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWN14-OgWOWJWMfU6hnZ-18" value="CMDB是所有运维工具的数据基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="-7.105427357601002e-15" y="4490" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
