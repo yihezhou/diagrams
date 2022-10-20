@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T10:29:47.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LwzqlxBWPDgq3PLNAcgB" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T02:46:22.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rfFFJnWzsrmZDvHcYYxg" version="20.4.1" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="4542" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -997,8 +997,8 @@
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-10" value="应用进程管理：记录每个应用的当前进程状态，个数等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1068.75" y="2595" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xWN14-OgWOWJWMfU6hnZ-11" value="Agent命令管理：记录每台服务器存在的命令集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2150" width="440" height="40" as="geometry" />
+        <mxCell id="xWN14-OgWOWJWMfU6hnZ-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Agent命令管理：记录每台服务器存在的命令集（一个task实例 == 一个taocli命令的执行）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="2150" width="1190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-12" value="应用日志管理：记录每个应用产生的日志，日志位置，条数，日志等级等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1067.5" y="2645" width="660" height="40" as="geometry" />
