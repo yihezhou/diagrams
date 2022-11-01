@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T02:47:38.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IQTEEGjy80pL6qCKNX4M" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:19:13.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ATrmC7nxOzrHfy6TeA-r" version="20.4.1" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="4542" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3138" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,37 +986,37 @@
           <mxGeometry x="1028.75" y="2100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-7" value="应用管理：记录每台服务器上部署的软件，开发人员，代码地址，部署目录，依赖的应用，软件信息，配置文件，进程名称等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2425" width="1120" height="40" as="geometry" />
+          <mxGeometry x="1070.63" y="2490" width="1120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-8" value="应用配置文件管理：记录每个应用的配置文件位置，内容，修改日期等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1068.75" y="2485" width="640" height="40" as="geometry" />
+          <mxGeometry x="1070.63" y="2535" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-9" value="应用安装目录管理：记录每个应用的安装目录信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1068.75" y="2545" width="460" height="40" as="geometry" />
+          <mxGeometry x="1070.63" y="2595" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-10" value="应用进程管理：记录每个应用的当前进程状态，个数等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1068.75" y="2595" width="500" height="40" as="geometry" />
+          <mxGeometry x="1070.63" y="2645" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Agent命令管理：记录每台服务器存在的命令集（一个BashOperator 的 task实例 == 一个taocli命令的执行）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="648.75" y="2150" width="1350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-12" value="应用日志管理：记录每个应用产生的日志，日志位置，条数，日志等级等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1067.5" y="2645" width="660" height="40" as="geometry" />
+          <mxGeometry x="1069.38" y="2695" width="660" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-13" value="作业模板dag管理：记录用户自定义的作业模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2200" width="440" height="40" as="geometry" />
+          <mxGeometry x="1030.63" y="2250" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-14" value="作业结果管理：记录工作流中每一个任务的执行结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2320" width="480" height="40" as="geometry" />
+          <mxGeometry x="1031.88" y="2370" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-15" value="作业执行记录管理：记录用户执行的所有作业日志，用于查看操作历史" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2375" width="640" height="40" as="geometry" />
+          <mxGeometry x="1030" y="2425" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-16" value="主机告警管理：记录每台服务器的告警信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2705" width="400" height="40" as="geometry" />
+          <mxGeometry x="1030.63" y="2755" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-17" value="主机监控管理：展示主机关键指标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2765" width="320" height="40" as="geometry" />
+          <mxGeometry x="1031.88" y="2815" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-18" value="CMDB是所有运维工具的数据基础" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-7.105427357601002e-15" y="4490" width="400" height="40" as="geometry" />
@@ -1025,13 +1025,16 @@
           <mxGeometry x="655" y="2070" width="315" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-20" value="dag_run == job(集成airflow的数据模型)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2845" width="460" height="40" as="geometry" />
+          <mxGeometry x="1030.63" y="2895" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-21" value="dag == job模板(集成airflow的数据模型)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2805" width="460" height="40" as="geometry" />
+          <mxGeometry x="1030.63" y="2855" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-22" value="作业dag_run管理：记录用户自定义的操作参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1028.75" y="2260" width="440" height="40" as="geometry" />
+          <mxGeometry x="1030.63" y="2310" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWN14-OgWOWJWMfU6hnZ-23" value="Options选项管理：记录每一个Agent命令具有的选项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1028.75" y="2200" width="600" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
