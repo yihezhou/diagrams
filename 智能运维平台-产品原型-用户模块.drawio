@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T08:41:06.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6CggMjXvrHrhDO-Tr-1z" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T08:47:26.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pp6ZIbgX6hoKQNqeEbL5" version="20.5.3" type="github">
   <diagram id="wjiktdhRLbimWFriI3nB" name="第 1 页">
-    <mxGraphModel dx="680" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,18 +37,42 @@
           <mxGeometry x="70" y="30" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="520" height="200" as="geometry">
+          <mxGeometry x="70" y="340" width="630" height="200" as="geometry">
             <mxRectangle x="70" y="340" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-16" value="创建账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
-          <mxGeometry x="430" y="20" width="70" height="20" as="geometry" />
+          <mxGeometry x="530" y="20" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-34" value="邮箱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="80" y="55" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-35" value="电话" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="230" y="55" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-36" value="创建时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="320" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-37" value="用户描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="430" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-38" value="操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="540" y="55" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-41" value="zhouyh@taocloudx.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="60" y="95" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-42" value="test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="440" y="95" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-43" value="删除 | 禁用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-14">
+          <mxGeometry x="525" y="95" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-15" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="305" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="340" width="200" height="280" as="geometry" />
+          <mxGeometry x="730" y="340" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-17">
           <mxGeometry x="70" y="20" width="70" height="20" as="geometry" />
@@ -83,11 +107,23 @@
         <mxCell id="GOT9QRInuWmZY4VtisN6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-17">
           <mxGeometry x="70" y="220" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-31" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-17">
+          <mxGeometry x="70" y="290" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-32" value="确定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-17">
+          <mxGeometry x="130" y="290" width="45" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-18" value="创建账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="305" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GOT9QRInuWmZY4VtisN6-19" value="姓名：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-33" value="姓名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="395" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-40" value="zhouyh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="435" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
