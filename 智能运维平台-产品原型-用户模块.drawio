@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T07:35:13.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="Yp6eYTX8QOiWzLn8dQ-z" type="github"><diagram id="wjiktdhRLbimWFriI3nB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-07T08:26:08.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="B3pqJgx0Dl8nuUO7b7GC" version="20.5.3" type="github">
+  <diagram id="wjiktdhRLbimWFriI3nB" name="第 1 页">
+    <mxGraphModel dx="680" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GOT9QRInuWmZY4VtisN6-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-5" value="登录智能运维平台TaoAIOps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="50" y="25" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-6" value="账号：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="40" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-7" value="密码：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="40" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="100" y="75" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="100" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-10" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="100" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="100" y="140" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-13" value="记住密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GOT9QRInuWmZY4VtisN6-2">
+          <mxGeometry x="120" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GOT9QRInuWmZY4VtisN6-4" value="首页登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
