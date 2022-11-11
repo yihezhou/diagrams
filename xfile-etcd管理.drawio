@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T09:37:06.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="5CkjxVRIWvRyiimayobn" type="github"><diagram id="0ozn_xqvC4fL78FhbusS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-11T09:42:24.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DZFqFaCEdfMtQfcZxsuA" version="20.5.3" type="github">
+  <diagram id="0ozn_xqvC4fL78FhbusS" name="第 1 页">
+    <mxGraphModel dx="1110" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nqdfyMP8T36QqYavoYLO-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="750" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-2" value="首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="30" y="20" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-3" value="集群管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="150" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-4" value="ETCD管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="75" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-5" value="文件系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="230" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-6" value="存储服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="320" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-7" value="etcd-cluster-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="30" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-8" value="集群名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="35" y="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-9" value="集群状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="180" y="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-11" value="服务器(个)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="310" y="75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-14" value="扩展&amp;nbsp; |&amp;nbsp; 删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="435" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-10" value="运行中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="185" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-12" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nqdfyMP8T36QqYavoYLO-1">
+          <mxGeometry x="330" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqdfyMP8T36QqYavoYLO-13" value="操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="125" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
