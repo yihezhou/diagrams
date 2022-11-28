@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T02:51:08.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="42cZFn4MYIBH-2OuAvzr" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T02:57:15.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="f8bcXbevOteBkyuk5ImC" version="20.5.3" type="github">
   <diagram id="Cr2ft3EUCLHrSJw7Iuv8" name="第 1 页">
-    <mxGraphModel dx="1660" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,8 +418,8 @@
             <mxPoint x="610" y="2630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-11" value="发布到：&lt;br&gt;执行标识Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="2820" width="100" height="40" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-11" value="⑧结果发布到：&lt;br&gt;执行标识Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2820" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-12" value="WebSocket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="2700" width="120" height="60" as="geometry" />
@@ -436,11 +436,11 @@
             <mxPoint x="610" y="2630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-16" value="同时使用Token发起&lt;br&gt;WebSocket请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2570" width="130" height="40" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-16" value="③同时使用Token发起&lt;br&gt;WebSocket请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2570" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-17" value="服务端主动执行结果到&lt;br&gt;WebSocket响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="2610" width="140" height="40" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-17" value="⑩服务端主动执行&lt;br&gt;结果到浏览器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="2610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-12" target="daNGBMWp20_d8rOUzyAb-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -448,8 +448,8 @@
             <mxPoint x="510" y="2660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-19" value="订阅执行标识&lt;br&gt;Token的消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="2735" width="100" height="40" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-19" value="⑨服务端订阅&lt;br&gt;执行标识&lt;br&gt;Token的消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2725" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-6" target="daNGBMWp20_d8rOUzyAb-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -457,8 +457,8 @@
             <mxPoint x="610" y="2660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-22" value="SSH远程连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="2620" width="100" height="30" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-22" value="⑥SSH远程连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="2620" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-23" value="运维任务Job1,Job2...的执行结果Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="2840" width="120" height="60" as="geometry" />
@@ -469,8 +469,8 @@
             <mxPoint x="610" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-25" value="运行任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="785" y="2780" width="70" height="30" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-25" value="⑦运行任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2780" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="daNGBMWp20_d8rOUzyAb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -478,8 +478,8 @@
             <mxPoint x="610" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-27" value="携带执行标识Token&lt;br&gt;下发运维任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2465" width="130" height="40" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-27" value="②浏览器携带执行标识Token&lt;br&gt;下发运维任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2465" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-2" target="daNGBMWp20_d8rOUzyAb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -496,17 +496,20 @@
             <mxPoint x="370" y="2820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-32" value="推送任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2575" width="70" height="30" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-32" value="④推送任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2575" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-33" value="获取任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="2580" width="70" height="30" as="geometry" />
+        <mxCell id="daNGBMWp20_d8rOUzyAb-33" value="⑤获取任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="2580" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-5" target="daNGBMWp20_d8rOUzyAb-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="2770" as="sourcePoint" />
             <mxPoint x="370" y="2720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-35" value="①" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="2460" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
