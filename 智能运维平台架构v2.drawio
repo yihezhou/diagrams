@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:45:46.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6bDL5SbWXKuQct3PP0sV" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:50:29.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="w0GQl8f3AFLCHQSEHoz8" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2528" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
           <mxGeometry x="307.14" y="5950" width="92.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Redis/Redis-Logo.wine.png;" vertex="1" parent="1">
-          <mxGeometry x="309.64" y="6060" width="239.76" height="160" as="geometry" />
+          <mxGeometry x="-114.83" y="6040" width="164.83" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
           <mxGeometry x="-161.39999999999984" y="5956.64" width="172.62" height="66.72" as="geometry" />
