@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T03:47:26.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="E2seTN5Ev3nuJ1zg-THG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:00:43.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_h9vMdogi9v5ibqJtEZs" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="2988" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1032,6 +1032,39 @@
         </mxCell>
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-23" value="Options选项管理：记录每一个Agent命令具有的选项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1028.75" y="2200" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-1" value="FSInsight技术架构v2.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="5775" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-2" value="FSInsight-api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-3" value="FSInsight-ws" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-4" value="FSInsight-web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="5745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="196.93" y="6060" width="106.15" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Redis/Redis-Logo.wine.png;" vertex="1" parent="1">
+          <mxGeometry x="455.12" y="5950" width="239.76" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-8" value="FSInsight-worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="5840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gartner.com/imagesrv/peer-insights/vendors/logos/nginx.png;" vertex="1" parent="1">
+          <mxGeometry x="292.40999999999997" y="5670" width="155.18" height="52.23" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
+          <mxGeometry x="480" y="6110" width="172.62" height="66.72" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-12" value="FSInsight&lt;br&gt;Metabase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="209.82" y="5980" width="80.18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-13" value="Airflow&lt;br&gt;Metabase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="343.48" y="6105.86" width="80.18" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
