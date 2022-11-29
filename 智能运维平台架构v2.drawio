@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:41:43.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sjoJsv1L03gY5eXRRduK" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:43:15.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9NpqYkAVhqJP1Bf3qztY" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2469" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1043,7 +1043,7 @@
           <mxGeometry x="309.64" y="6060" width="239.76" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
-          <mxGeometry x="-122.61999999999983" y="5956.64" width="172.62" height="66.72" as="geometry" />
+          <mxGeometry x="-161.39999999999984" y="5956.64" width="172.62" height="66.72" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="5790" width="400" height="430" as="geometry" />
@@ -1085,7 +1085,7 @@
           <mxGeometry y="130" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-23" value="Host1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="6200" width="109.82" height="90" as="geometry" />
+          <mxGeometry x="-130" y="6190" width="109.82" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-24" value="Host2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="6300" width="109.82" height="95" as="geometry" />
@@ -1117,7 +1117,7 @@
             <mxPoint x="50" y="6250" as="targetPoint" />
             <Array as="points">
               <mxPoint y="6465" />
-              <mxPoint y="6245" />
+              <mxPoint y="6235" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1126,6 +1126,15 @@
             <mxPoint x="190" y="6130" as="sourcePoint" />
             <mxPoint x="240" y="6080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-37" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="6190" width="48.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-38" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="6300" width="48.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-39" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="6420" width="48.78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
