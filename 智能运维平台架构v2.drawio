@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:39:04.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qish0EzseoxvIp5IH8lZ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:41:43.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sjoJsv1L03gY5eXRRduK" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="2860" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1033,9 +1033,6 @@
         <mxCell id="xWN14-OgWOWJWMfU6hnZ-23" value="Options选项管理：记录每一个Agent命令具有的选项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1028.75" y="2200" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-1" value="FSInsight技术架构v2.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="5905" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-2" value="&lt;br&gt;FSInsight-api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="5950" width="110" height="80" as="geometry" />
         </mxCell>
@@ -1046,7 +1043,7 @@
           <mxGeometry x="309.64" y="6060" width="239.76" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
-          <mxGeometry x="-48.12999999999984" y="5971.64" width="172.62" height="66.72" as="geometry" />
+          <mxGeometry x="-122.61999999999983" y="5956.64" width="172.62" height="66.72" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="5790" width="400" height="430" as="geometry" />
@@ -1088,20 +1085,20 @@
           <mxGeometry y="130" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-23" value="Host1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90.18" y="6260" width="70" height="30" as="geometry" />
+          <mxGeometry x="-130" y="6200" width="109.82" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-24" value="Host2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90.18" y="6305" width="70" height="30" as="geometry" />
+          <mxGeometry x="-130" y="6300" width="109.82" height="95" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-25" value="HostN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90.18" y="6350.86" width="70" height="30" as="geometry" />
+          <mxGeometry x="-130.18" y="6420" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-28" value="SSH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="59.99999999999999" y="6190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="6320" as="sourcePoint" />
+            <mxPoint x="100" y="6340" as="sourcePoint" />
             <mxPoint x="230" y="6190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="100" y="6130" />
@@ -1110,7 +1107,7 @@
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="6320" as="sourcePoint" />
+            <mxPoint x="100" y="6347" as="sourcePoint" />
             <mxPoint x="230" y="6190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1119,9 +1116,15 @@
             <mxPoint y="6370" as="sourcePoint" />
             <mxPoint x="50" y="6250" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="6366" />
-              <mxPoint y="6275" />
+              <mxPoint y="6465" />
+              <mxPoint y="6245" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CowkarHb3L10CkKkj1FM-2" target="CowkarHb3L10CkKkj1FM-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="6130" as="sourcePoint" />
+            <mxPoint x="240" y="6080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
