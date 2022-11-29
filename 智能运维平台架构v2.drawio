@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:43:15.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9NpqYkAVhqJP1Bf3qztY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:45:46.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6bDL5SbWXKuQct3PP0sV" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="2469" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1135,6 +1135,28 @@
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-39" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-130" y="6420" width="48.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CowkarHb3L10CkKkj1FM-11" target="CowkarHb3L10CkKkj1FM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="6260" as="sourcePoint" />
+            <mxPoint x="-220" y="6360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="5990" />
+              <mxPoint x="-220" y="6465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="6235" as="sourcePoint" />
+            <mxPoint x="130" y="6280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CowkarHb3L10CkKkj1FM-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220.18" y="6347.159999999999" as="sourcePoint" />
+            <mxPoint x="-130.18" y="6347.159999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
