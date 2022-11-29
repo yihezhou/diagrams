@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T07:27:27.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q3bfI9D8fiFydfX5E4i-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T07:34:00.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="F9tiJyPxrHOUuGnpFMwC" version="20.5.3" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2528" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
           <mxGeometry x="307.14" y="5950" width="92.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Redis/Redis-Logo.wine.png;" vertex="1" parent="1">
-          <mxGeometry x="-114.83" y="6040" width="164.83" height="110" as="geometry" />
+          <mxGeometry x="-114.89" y="6060" width="104.89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;" vertex="1" parent="1">
           <mxGeometry x="-161.39999999999984" y="5956.64" width="172.62" height="66.72" as="geometry" />
@@ -1085,39 +1085,23 @@
           <mxGeometry y="150" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Host1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-129.91" y="6150" width="109.82" height="60" as="geometry" />
+          <mxGeometry x="-330" y="6260" width="109.82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Host2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-129.91" y="6260" width="109.82" height="60" as="geometry" />
+          <mxGeometry x="-199.91" y="6260" width="109.82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;HostN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130.09" y="6380" width="110" height="50" as="geometry" />
+          <mxGeometry x="-49.82" y="6260" width="109.82" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-28" value="SSH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="59.99999999999999" y="6190" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="6190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="6290" as="sourcePoint" />
+            <mxPoint x="100" y="6130" as="sourcePoint" />
             <mxPoint x="230" y="6190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="100" y="6130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="6290" as="sourcePoint" />
-            <mxPoint x="230" y="6190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CowkarHb3L10CkKkj1FM-25" target="CowkarHb3L10CkKkj1FM-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="6370" as="sourcePoint" />
-            <mxPoint x="50" y="6250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="6405" />
-              <mxPoint y="6180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1128,34 +1112,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-37" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-129.91" y="6150" width="48.78" height="30" as="geometry" />
+          <mxGeometry x="-330" y="6260" width="48.78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-38" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-129.91" y="6260" width="48.78" height="30" as="geometry" />
+          <mxGeometry x="-199.91" y="6260" width="48.78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-39" value="Airflow-worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-129.91" y="6380" width="48.78" height="30" as="geometry" />
+          <mxGeometry x="-48.99999999999999" y="6260" width="48.78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CowkarHb3L10CkKkj1FM-11" target="CowkarHb3L10CkKkj1FM-25">
+        <mxCell id="CowkarHb3L10CkKkj1FM-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="6260" as="sourcePoint" />
-            <mxPoint x="-220" y="6360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-220" y="5990" />
-              <mxPoint x="-220" y="6405" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CowkarHb3L10CkKkj1FM-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-220" y="6180" as="sourcePoint" />
-            <mxPoint x="130" y="6280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-219.91" y="6289.309999999999" as="sourcePoint" />
-            <mxPoint x="-129.91" y="6289.309999999999" as="targetPoint" />
+            <mxPoint x="80" y="6290" as="sourcePoint" />
+            <mxPoint x="80" y="6150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
