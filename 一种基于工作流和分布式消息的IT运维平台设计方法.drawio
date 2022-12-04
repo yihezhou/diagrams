@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T02:12:42.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Lb24Wd7RMTykrfUDJXBT" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T02:13:12.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="w8RcwmmCKCu12t_Mazvo" version="20.5.3" type="github">
   <diagram id="Cr2ft3EUCLHrSJw7Iuv8" name="第 1 页">
     <mxGraphModel dx="1438" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -779,7 +779,7 @@
           <mxGeometry x="1569" y="3505" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-110" value="Out2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="3563" width="39" height="39" as="geometry" />
+          <mxGeometry x="1569" y="3567" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-111" value="磁盘故障" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1636" y="3511" width="82" height="31" as="geometry" />
@@ -1441,10 +1441,10 @@
             <mxPoint x="1614" y="3818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="daNGBMWp20_d8rOUzyAb-225" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="daNGBMWp20_d8rOUzyAb-225" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1429" y="3712" as="sourcePoint" />
-            <mxPoint x="1490" y="3668" as="targetPoint" />
+            <mxPoint x="1568" y="3525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-226" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-103" target="daNGBMWp20_d8rOUzyAb-107">
@@ -1571,6 +1571,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1499" y="3782" as="sourcePoint" />
             <mxPoint x="1560" y="3738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-247" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-107" target="daNGBMWp20_d8rOUzyAb-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1509" y="3792" as="sourcePoint" />
+            <mxPoint x="1570" y="3748" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
