@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T02:16:56.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YkEJqAq-GQUEaLML87JT" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T02:27:00.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sclfMEXqRwAM73KDNGE_" version="20.5.3" type="github">
   <diagram id="Cr2ft3EUCLHrSJw7Iuv8" name="第 1 页">
-    <mxGraphModel dx="1438" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1599,6 +1599,82 @@
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-254" value="诊断结果输出层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1527" y="3847" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-255" value="给定磁盘IO训练集" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="3995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-256" value="神经网络参数初始化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="4096" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-257" value="求隐藏层、输出层各单元的输出（前向传播）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="4188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-258" value="对整体训练集计算总体误差" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="4280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-260" value="Loss满足要求？" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1139.5" y="4383" width="129" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-261" value="训练结束" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="4393" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-262" value="应用链式法则，求损失函数关于每层权值矩阵的梯度（反向传播）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="4506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-263" value="梯度下降算法调整各层的权值和偏置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="4600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-264" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-255" target="daNGBMWp20_d8rOUzyAb-256">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4231" as="sourcePoint" />
+            <mxPoint x="1248" y="4181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-266" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-256" target="daNGBMWp20_d8rOUzyAb-257">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4231" as="sourcePoint" />
+            <mxPoint x="1248" y="4181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-267" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-257" target="daNGBMWp20_d8rOUzyAb-258">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4231" as="sourcePoint" />
+            <mxPoint x="1248" y="4181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-268" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-258" target="daNGBMWp20_d8rOUzyAb-260">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4466" as="sourcePoint" />
+            <mxPoint x="1248" y="4416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-269" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-260" target="daNGBMWp20_d8rOUzyAb-261">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4466" as="sourcePoint" />
+            <mxPoint x="1248" y="4416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-270" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="daNGBMWp20_d8rOUzyAb-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1203" y="4461" as="sourcePoint" />
+            <mxPoint x="1248" y="4416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-271" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-262" target="daNGBMWp20_d8rOUzyAb-263">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4466" as="sourcePoint" />
+            <mxPoint x="1248" y="4416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daNGBMWp20_d8rOUzyAb-272" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="daNGBMWp20_d8rOUzyAb-263">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1198" y="4466" as="sourcePoint" />
+            <mxPoint x="1204" y="4171" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="993" y="4630" />
+              <mxPoint x="993" y="4174" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
