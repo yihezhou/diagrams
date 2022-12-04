@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T02:16:08.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xhM7OuQEEJDGgDCQ7cjS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T02:16:56.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YkEJqAq-GQUEaLML87JT" version="20.5.3" type="github">
   <diagram id="Cr2ft3EUCLHrSJw7Iuv8" name="第 1 页">
     <mxGraphModel dx="1438" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1598,7 +1598,7 @@
           <mxGeometry x="1322" y="3850" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="daNGBMWp20_d8rOUzyAb-254" value="诊断结果输出层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1536" y="3848" width="102" height="26" as="geometry" />
+          <mxGeometry x="1527" y="3847" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
