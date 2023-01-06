@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T11:24:35.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="LPhA4d2rh3mmzhZgqucB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T11:29:42.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="lcQOtjBtrW_s8kNq3UM6" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1808" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,21 @@
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-7" value="fsinsight-dev3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-6">
           <mxGeometry x="-10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSvhDizwMLqlaj25CJx4-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="584" width="720" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vSvhDizwMLqlaj25CJx4-20" value="harbor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
+          <mxGeometry x="470" y="126" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSvhDizwMLqlaj25CJx4-21" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
+          <mxGeometry x="574" y="126" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSvhDizwMLqlaj25CJx4-22" value="checkout&lt;br&gt;/data/sdb/data/deploy/workspace/FSInsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
+          <mxGeometry x="10" y="146" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSvhDizwMLqlaj25CJx4-23" value="checkout&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
+          <mxGeometry x="10" y="96" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
