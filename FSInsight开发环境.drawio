@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T11:33:59.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="DIBbdaZ0a-FNQg1BKTjl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T11:36:24.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="QNlkEP-QjCzDRtThYm9e" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1808" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,16 +65,16 @@
           <mxGeometry x="820" y="126" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-22" value="checkout&lt;br&gt;/data/sdb/data/deploy/workspace/FSInsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
-          <mxGeometry x="20" y="146" width="250" height="40" as="geometry" />
+          <mxGeometry x="20" y="146" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-23" value="checkout&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
-          <mxGeometry x="20" y="88" width="250" height="40" as="geometry" />
+        <mxCell id="vSvhDizwMLqlaj25CJx4-23" value="checkout&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/backend&lt;br&gt;/data/sdb/data/deploy/workspace/XDFS6.0/xdfs-vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
+          <mxGeometry x="20" y="70" width="280" height="58" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-24" value="build&lt;br&gt;/data/sdb/fsinsight-package-input/fsinsight-backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
           <mxGeometry x="310" y="146" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-25" value="build&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/xdfs-ha-deploy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-19">
-          <mxGeometry x="310" y="80" width="320" height="56" as="geometry" />
+          <mxGeometry x="310" y="71" width="320" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
