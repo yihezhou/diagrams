@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T05:49:10.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qg2_nyz7vuVs4HUroBnI" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T05:51:22.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RYbp8RhYO-hkUGRVpM5F" version="20.8.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1949" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,15 @@
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-25" value="Jenkinsfile" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="430" y="610" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-28" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="176.5" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BFVZz1PlwPAsUvEPE4qQ-21" target="BFVZz1PlwPAsUvEPE4qQ-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="550" as="sourcePoint" />
+            <mxPoint x="1050" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
