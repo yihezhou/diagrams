@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T08:47:29.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QjmLbkh0eLi5IZQtHqC0" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T01:40:31.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kc9TX2gn-pH56WpnPLUl" version="20.8.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="1434" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,9 @@
             <mxPoint x="250" y="280" as="sourcePoint" />
             <mxPoint x="300" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-57" value="安装包&lt;br&gt;/root" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="vSvhDizwMLqlaj25CJx4-2">
+          <mxGeometry x="270" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-4" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="800" width="330" height="320" as="geometry" />
