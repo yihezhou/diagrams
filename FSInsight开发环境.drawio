@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T06:56:58.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-11GB-6PHGgOcUt_a5ab" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T01:22:16.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="i78YTKfbJkqd0uqUZ9Yw" version="20.8.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="2078" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,6 +261,12 @@
             <mxPoint x="-260" y="590" as="sourcePoint" />
             <mxPoint x="-210" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-61" value="Storage存储-逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-62" value="Mgnt管理-逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="950" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
