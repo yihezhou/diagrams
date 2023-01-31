@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:02:39.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WXDNhQ19NhDDNuQy5-go" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T03:05:52.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="moas1bcJ875wi6heLWrL" version="20.8.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="2599" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-88" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="515" width="70" height="80" as="geometry" />
+          <mxGeometry x="2040" y="515" width="98" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-bug-128.png;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2260" y="510" width="90" height="90" as="geometry" />
@@ -387,6 +387,24 @@
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-94" value="软件bug" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2270" y="610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-95" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BFVZz1PlwPAsUvEPE4qQ-88" target="BFVZz1PlwPAsUvEPE4qQ-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2500" y="940" as="sourcePoint" />
+            <mxPoint x="2550" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-96" value="升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-97" value="升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="390" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-98" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BFVZz1PlwPAsUvEPE4qQ-89" target="BFVZz1PlwPAsUvEPE4qQ-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2050" y="541.8000000000002" as="sourcePoint" />
+            <mxPoint x="2170" y="281.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
