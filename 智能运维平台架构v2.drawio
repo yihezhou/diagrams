@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T09:28:58.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aEnScK6mSp2zRfBgE51d" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T09:30:39.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qfHEeyUmzUZmINsT-WU8" version="20.8.17" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
     <mxGraphModel dx="2885" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1210,6 +1210,12 @@
               <mxPoint x="-130" y="6135" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-25" value="FSInsight运维平台端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="267.14" y="6490" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-26" value="被管控主机端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-274.89" y="6490" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
