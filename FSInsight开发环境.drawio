@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T02:54:51.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PG1GyH6wH2vnkygmW3dK" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T10:15:30.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zjN_w_8O99TLhDEQ6be-" version="20.8.20" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="2187" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2225" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-18" value="node-exporter&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;port:9100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
           <mxGeometry x="230" y="230" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-19" value="grafana-server&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;port:3000&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/etc/grafana/grafana.ini&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/etc/grafana/provisioning/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-19" value="grafana-server&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;port:3000&lt;br&gt;admin@111111&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/etc/grafana/grafana.ini&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/etc/grafana/provisioning/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
           <mxGeometry x="380" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-20" value="dockerd&lt;br&gt;2375" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
