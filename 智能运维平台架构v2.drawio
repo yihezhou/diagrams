@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T07:55:41.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EVesg-1M8qVP8JsqncVC" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T07:59:22.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="V2MRzfLwDWibStOMqOoY" version="20.8.20" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="3399" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2649" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1055,10 +1055,10 @@
           <mxGeometry x="217.5" y="219.17000000000002" width="95" height="20.83" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-8" value="FSInsight-worker" style="rounded=1;whiteSpace=wrap;html=1;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="140" y="510" width="250" height="80" as="geometry" />
+          <mxGeometry x="140" y="540" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-12" value="FSInsight&lt;br&gt;Metabase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="224.91" y="360" width="80.18" height="77.5" as="geometry" />
+          <mxGeometry x="140" y="340" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CowkarHb3L10CkKkj1FM-16" source="CowkarHb3L10CkKkj1FM-12" target="CowkarHb3L10CkKkj1FM-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1076,7 +1076,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-7" value="取出tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="200" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="195.73" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-3" value="&lt;br&gt;&lt;br&gt;FSInsight-ws" style="rounded=1;whiteSpace=wrap;html=1;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="40" y="210" width="92.86" height="80" as="geometry" />
@@ -1103,13 +1103,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-27" value="CMDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="305.09" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-38" value="全局私钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="399.99999999999994" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="309.99999999999994" y="380" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-39" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="500" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="160" y="380" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4TwfGMceX84nFnrUMkTj-3" value="主机连&lt;br&gt;接属性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="CowkarHb3L10CkKkj1FM-16">
+          <mxGeometry x="230" y="460" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Host1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="6270" width="253.6" height="190" as="geometry" />
