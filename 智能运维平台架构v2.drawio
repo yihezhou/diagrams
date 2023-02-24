@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T08:40:30.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eSGq-ikcNx41Np96pVHV" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T08:43:43.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ogT76W8NZLu1N2j-SSRA" version="20.8.20" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="5194" dy="2535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="5621" dy="2886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,19 +1036,19 @@
         <mxCell id="CowkarHb3L10CkKkj1FM-16" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="5590" width="820" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-4" value="FSInsight-user-web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="620" y="200" width="170" height="80" as="geometry" />
+        <mxCell id="CowkarHb3L10CkKkj1FM-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FSInsight-user-web&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+          <mxGeometry x="590" y="200" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gartner.com/imagesrv/peer-insights/vendors/logos/nginx.png;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="405.73" y="70" width="148.55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-2" value="&lt;br&gt;FSInsight-api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+        <mxCell id="CowkarHb3L10CkKkj1FM-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;FSInsight-api&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="380" y="200" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gunicorn_logo_2010.svg/2560px-Gunicorn_logo_2010.svg.png;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="427.5" y="209.17000000000002" width="95" height="20.83" as="geometry" />
+          <mxGeometry x="412.86" y="207.72" width="122.5" height="26.86" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-12" value="FSInsight&lt;br&gt;Metabase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+        <mxCell id="CowkarHb3L10CkKkj1FM-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FSInsight&lt;br&gt;Metabase&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="330" y="375" width="290" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CowkarHb3L10CkKkj1FM-16" source="CowkarHb3L10CkKkj1FM-12" target="4TwfGMceX84nFnrUMkTj-19" edge="1">
@@ -1069,7 +1069,7 @@
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-7" value="取出tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="390" y="610" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CowkarHb3L10CkKkj1FM-3" value="&lt;br&gt;&lt;br&gt;FSInsight-ws" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+        <mxCell id="CowkarHb3L10CkKkj1FM-3" value="&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;FSInsight-ws&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="60" y="200" width="282.86" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-19" value="Daphne-Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
@@ -1097,10 +1097,10 @@
           <mxGeometry x="430" y="375" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-38" value="全局私钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="520" y="415" width="70" height="40" as="geometry" />
+          <mxGeometry x="540" y="415" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-39" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="370" y="415" width="70" height="40" as="geometry" />
+          <mxGeometry x="342.86" y="415" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4TwfGMceX84nFnrUMkTj-3" value="主机连&lt;br&gt;接属性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="CowkarHb3L10CkKkj1FM-16">
           <mxGeometry x="440" y="515" width="70" height="40" as="geometry" />
@@ -1114,7 +1114,7 @@
         <mxCell id="CowkarHb3L10CkKkj1FM-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Docker-FSInsight-master&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry y="820" width="820" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="4TwfGMceX84nFnrUMkTj-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;labelBackgroundColor=#33FFFF;fontSize=24;" vertex="1" parent="CowkarHb3L10CkKkj1FM-16">
+        <mxCell id="4TwfGMceX84nFnrUMkTj-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#0e8088;fillColor=#b0e3e6;shape=mxgraph.azure.worker_role;labelBackgroundColor=#33FFFF;fontSize=24;" vertex="1" parent="CowkarHb3L10CkKkj1FM-16">
           <mxGeometry x="355" y="650" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4TwfGMceX84nFnrUMkTj-20" value="FSInsight-wroker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="CowkarHb3L10CkKkj1FM-16">
