@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T07:51:29.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="U5QgqmQIPWZZgfD_lzaW" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T07:55:41.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EVesg-1M8qVP8JsqncVC" version="20.8.20" type="github">
   <diagram id="RkA_13CBty0s5V47uSro" name="Page-1">
-    <mxGraphModel dx="2859" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3399" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1037,7 +1037,7 @@
           <mxGeometry x="-24.890000000000015" y="6100" width="104.89" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-16" value="" style="swimlane;startSize=0;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="160" y="5790" width="540" height="670" as="geometry" />
+          <mxGeometry x="160" y="5790" width="600" height="670" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-4" value="FSInsight-user-web" style="rounded=1;whiteSpace=wrap;html=1;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="400" y="200.82999999999998" width="120" height="80" as="geometry" />
@@ -1055,7 +1055,7 @@
           <mxGeometry x="217.5" y="219.17000000000002" width="95" height="20.83" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-8" value="FSInsight-worker" style="rounded=1;whiteSpace=wrap;html=1;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="212.5" y="510" width="105" height="80" as="geometry" />
+          <mxGeometry x="140" y="510" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-12" value="FSInsight&lt;br&gt;Metabase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="224.91" y="360" width="80.18" height="77.5" as="geometry" />
@@ -1105,11 +1105,11 @@
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-27" value="CMDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
           <mxGeometry x="305.09" y="390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xwVBxFlFO7NAoiI8pQPh-38" value="全局私钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="395.0899999999999" y="390" width="70" height="40" as="geometry" />
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-38" value="全局私钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+          <mxGeometry x="399.99999999999994" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xwVBxFlFO7NAoiI8pQPh-39" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
-          <mxGeometry x="470" y="390" width="70" height="40" as="geometry" />
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-39" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="CowkarHb3L10CkKkj1FM-16" vertex="1">
+          <mxGeometry x="500" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CowkarHb3L10CkKkj1FM-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Host1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="6270" width="253.6" height="190" as="geometry" />
@@ -1183,11 +1183,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwVBxFlFO7NAoiI8pQPh-25" value="FSInsight运维平台端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="262.14" y="6620" width="300" height="50" as="geometry" />
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-25" value="FSInsight运维平台管理端&lt;br&gt;（FSInsight-master）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="247.14" y="6600" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xwVBxFlFO7NAoiI8pQPh-26" value="被管控主机端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="6620" width="200" height="50" as="geometry" />
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-26" value="FSInsight运维平台被管控主机端&lt;br&gt;（FSInsight-agent）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="-615" y="6600" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xwVBxFlFO7NAoiI8pQPh-28" value="FSInsight&lt;br&gt;Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-500" y="6280" width="90" height="60" as="geometry" />
@@ -1225,13 +1225,13 @@
             <mxPoint x="-643.2000000000003" y="6480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwVBxFlFO7NAoiI8pQPh-37" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="xwVBxFlFO7NAoiI8pQPh-37" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-780" y="6410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4TwfGMceX84nFnrUMkTj-1" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4TwfGMceX84nFnrUMkTj-1" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-490" y="6410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4TwfGMceX84nFnrUMkTj-2" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="4TwfGMceX84nFnrUMkTj-2" value="全局公钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-210" y="6410" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
