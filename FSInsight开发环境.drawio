@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T08:14:32.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ABWfokz2O7ZE6N8vwb0s" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T08:17:14.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0JEBirz8MTkCOd-6_R1u" version="20.8.20" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1747" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,9 +127,6 @@
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-12" value="Grafana-server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="BFVZz1PlwPAsUvEPE4qQ-7" vertex="1">
           <mxGeometry x="498" y="90" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-14" value="fsinsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="BFVZz1PlwPAsUvEPE4qQ-7" vertex="1">
-          <mxGeometry x="30" y="40" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-15" value="mgnt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="BFVZz1PlwPAsUvEPE4qQ-7" vertex="1">
           <mxGeometry x="300" y="40" width="70" height="30" as="geometry" />
         </mxCell>
@@ -138,6 +135,12 @@
         </mxCell>
         <mxCell id="g5A8tSMMiwnT3m2xEH7A-11" value="" style="swimlane;startSize=0;strokeColor=#000000;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="BFVZz1PlwPAsUvEPE4qQ-7">
           <mxGeometry x="15" y="30" width="255" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g5A8tSMMiwnT3m2xEH7A-12" value="fsinsight-db" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="g5A8tSMMiwnT3m2xEH7A-11">
+          <mxGeometry x="160" y="10" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-14" value="fsinsight&lt;br&gt;(fsinsight-web)&lt;br&gt;(fsinsight-api)&lt;br&gt;(fsinsight-ws)&lt;br&gt;(redis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="g5A8tSMMiwnT3m2xEH7A-11" vertex="1">
+          <mxGeometry x="5" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-21" value="build&lt;br&gt;/data/sdb/xdfs-package-output" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="1350" y="142" width="260" height="66" as="geometry" />
@@ -156,7 +159,7 @@
             <mxPoint x="1230" y="590" as="sourcePoint" />
             <mxPoint x="1280" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="385" y="60" />
+              <mxPoint x="390" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
