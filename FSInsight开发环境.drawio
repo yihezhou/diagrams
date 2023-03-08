@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T02:57:04.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0qnt-G81NnDTs3BbtmHw" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T02:58:52.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="63skC_RNX3WrSKINkUz1" version="20.8.20" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1691" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="vSvhDizwMLqlaj25CJx4-24" value="build&lt;br&gt;/data/sdb/fsinsight-package-input/fsinsight-backend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="970" y="250" width="320" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-25" value="build-input&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/xdfs-ha-deploy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
+        <mxCell id="vSvhDizwMLqlaj25CJx4-25" value="build-input&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0&lt;br&gt;/data/sdb/xdfs-package-input/xdfs6.0/xdfs-ha-deploy&lt;br&gt;（&lt;font color=&quot;#00cc00&quot;&gt;install_v2.sh 注意django app&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="970" y="140" width="320" height="68" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-26" value="172.16.100.2 CI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
