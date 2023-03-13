@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T02:57:06.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d4X2iKNBDSoL8TZtCWI-" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T02:58:39.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kEDrsbbpG8Gu8Bh619hA" version="20.8.20" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="2001" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
         <mxCell id="vSvhDizwMLqlaj25CJx4-16" value="code&lt;br&gt;/opt/xdfs6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
           <mxGeometry x="140" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-17" value="fsinsight-backend&lt;br&gt;8001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
-          <mxGeometry x="35" y="140" width="70" height="60" as="geometry" />
+        <mxCell id="vSvhDizwMLqlaj25CJx4-17" value="fsinsight-backend&lt;br&gt;8001&lt;br&gt;(fsinsight_base)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
+          <mxGeometry x="22.5" y="140" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-18" value="xdfs6-backend&lt;br&gt;8002&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
+        <mxCell id="vSvhDizwMLqlaj25CJx4-18" value="xdfs6-backend&lt;br&gt;8002&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (mgnt_base)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
           <mxGeometry x="140" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-16" value="Prometheus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="vSvhDizwMLqlaj25CJx4-2" vertex="1">
