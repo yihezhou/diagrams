@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T01:16:21.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eHYQlv5KfzKBMdtQayiA" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T01:17:46.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="o5Jz-Y0S-PUMzhpHwDLW" version="21.0.8" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1516" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="vSvhDizwMLqlaj25CJx4-19" value="" style="swimlane;startSize=0;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-790" y="50" width="2070" height="405" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-21" value="Jenkins&lt;br&gt;/data/sdb/data/jenkins/jenkins_home/config.xml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
+        <mxCell id="vSvhDizwMLqlaj25CJx4-21" value="Jenkins(admin:sysadmin)&lt;br&gt;/data/sdb/data/jenkins/jenkins_home/config.xml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="970" y="330" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-22" value="checkout&lt;br&gt;/data/sdb/data/deploy/workspace/FSInsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
