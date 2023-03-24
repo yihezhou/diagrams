@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:48:01.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CTh3BVZTjc4u6-Zk51Mn" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T01:13:11.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ExukVM9VBWGkHUCjKS7D" version="21.0.8" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="1435" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
             <mxPoint x="308" y="442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-25" value="Jenkinsfile&lt;br&gt;注意django app" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-25" value="&lt;font color=&quot;#009900&quot;&gt;Jenkinsfile&lt;br&gt;注意django app&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="430" y="600" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-28" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
