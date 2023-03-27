@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T06:17:31.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cJkglI8UktRGunDLNXg-" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T06:19:19.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3aFC8DmwUJoKTyPAkCoo" version="21.1.0" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1748" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,10 +214,10 @@
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-33" value="XDFS6-manager1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-170" y="1230" width="730" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-34" value="XDFS-node-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-34" value="XDFS6-manager2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="600" y="1230" width="330" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-35" value="XDFS-node-3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-35" value="XDFS6-manager3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="960" y="1230" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-36" value="" style="swimlane;startSize=0;fontSize=11;" parent="1" vertex="1">
@@ -292,8 +292,8 @@
             <mxPoint x="-210" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-61" value="Storage存储-逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="1320" width="240" height="40" as="geometry" />
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-61" value="XDFS6-Storage存储-逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
+          <mxGeometry x="1285" y="1320" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-62" value="Mgnt管理-逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1325" y="950" width="210" height="40" as="geometry" />
