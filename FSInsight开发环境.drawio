@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T06:19:19.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3aFC8DmwUJoKTyPAkCoo" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T06:19:45.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LebxCePv4kcWlNju1Wjo" version="21.1.0" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1748" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,8 +448,8 @@
         <mxCell id="g5A8tSMMiwnT3m2xEH7A-3" value="1先：GET查询&lt;br style=&quot;font-size: 14px;&quot;&gt;2再：POST创建&lt;br style=&quot;font-size: 14px;&quot;&gt;3再：PUT修改&lt;br style=&quot;font-size: 14px;&quot;&gt;4再：PATCH操作&lt;br style=&quot;font-size: 14px;&quot;&gt;5再：再DEL删除" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-320" y="530" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="MFZawoox1Ek6F2SYE4hD-1" value="172.16.107.17" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1230" width="180" height="40" as="geometry" />
+        <mxCell id="MFZawoox1Ek6F2SYE4hD-1" value="172.16.107.17&lt;br&gt;vip: 172.16.107.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1235" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
