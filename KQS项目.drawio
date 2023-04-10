@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:31:26.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.4" etag="HV-6Fq-0Nn8D20GjW_Ft" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:36:44.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HR8EgHlIdD5TpOY00R5M" version="21.1.4" type="github">
   <diagram name="第 1 页" id="iDBu9g9PRlwvheA5kxvF">
-    <mxGraphModel>
+    <mxGraphModel dx="2179" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-3" value="用户查看实验指导书(实验台教程)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-4" value="用户查看指定实验环境的配置指南" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="394" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-6" value="CentOS实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-7" value="Mysql实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-8" value="Python实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-9" value="MongoDB实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VXXbkN8eZvHn7JUf34pw-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="620" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
