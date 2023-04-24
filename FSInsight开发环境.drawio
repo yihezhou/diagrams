@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T02:53:14.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jhKqLId4bh5z1zqDfRgk" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T03:00:18.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FJAD5gw7ZroHIbEO03kZ" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1665" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
           <mxGeometry x="40" y="45" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-120" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="1770" width="400" height="190" as="geometry" />
+          <mxGeometry x="1660" y="1820" width="400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-121" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
           <mxGeometry width="400" height="37" as="geometry" />
@@ -497,7 +497,7 @@
             <mxRectangle width="147" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-128" value="流水线运行的主节点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-125">
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-128" value="流水线运行的主节点&lt;br&gt;VIP: 172.16.107.10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-125">
           <mxGeometry x="240" width="160" height="37" as="geometry">
             <mxRectangle width="160" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -556,8 +556,8 @@
             <mxRectangle width="160" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-141" value="环境信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="1740" width="70" height="30" as="geometry" />
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-141" value="环境信息：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1780" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-142" value="XDFS6自动化部署打包流水线说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1695" y="1580" width="330" height="40" as="geometry" />
@@ -568,8 +568,11 @@
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-144" value="流水线触发方式：开发者的代码被合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1675" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-145" value="流水线执行的动作：流水线会自动对此环境进行整体更新升级，以及自动化打包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="1710" width="440" height="30" as="geometry" />
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-145" value="流水线执行的动作：流水线会自动对此环境进行整体更新升级，包括管理平台和存储层，以及实现自动化打包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1710" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-146" value="出包路径：\\192.168.1.10\研发\XDFS\00-版本发布\开发测试版\6.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1750" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
