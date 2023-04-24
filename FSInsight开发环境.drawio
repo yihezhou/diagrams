@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T03:00:18.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FJAD5gw7ZroHIbEO03kZ" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T03:01:03.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="utXQKxhB2xC1-souRPvN" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="1665" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -565,8 +565,8 @@
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-143" value="用途：提供一个与生产环境一致的环境，给前端层、中间层、存储层研发者进行功能自测(代码层面)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1640" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-144" value="流水线触发方式：开发者的代码被合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="1675" width="230" height="30" as="geometry" />
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-144" value="流水线触发方式：前端层、中间层开发者的代码被合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1675" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-145" value="流水线执行的动作：流水线会自动对此环境进行整体更新升级，包括管理平台和存储层，以及实现自动化打包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1710" width="600" height="30" as="geometry" />
