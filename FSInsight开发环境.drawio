@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T02:29:12.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xzOokijmwmHXdZkdzztZ" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T02:53:14.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jhKqLId4bh5z1zqDfRgk" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="2593" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,6 +462,114 @@
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-4" value="FSInsight 安装开始&lt;br&gt;此节点用来调试FSInsight的整体安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-5">
           <mxGeometry x="40" y="45" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-120" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1770" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-121" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
+          <mxGeometry width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-122" value="管理网IP" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-121">
+          <mxGeometry width="93" height="37" as="geometry">
+            <mxRectangle width="93" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-123" value="节点角色" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-121">
+          <mxGeometry x="93" width="147" height="37" as="geometry">
+            <mxRectangle width="147" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-124" value="备注" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-121">
+          <mxGeometry x="240" width="160" height="37" as="geometry">
+            <mxRectangle width="160" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-125" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
+          <mxGeometry y="37" width="400" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-126" value="172.16.107.17" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-125">
+          <mxGeometry width="93" height="37" as="geometry">
+            <mxRectangle width="93" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-127" value="管理节点，数据节点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-125">
+          <mxGeometry x="93" width="147" height="37" as="geometry">
+            <mxRectangle width="147" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-128" value="流水线运行的主节点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-125">
+          <mxGeometry x="240" width="160" height="37" as="geometry">
+            <mxRectangle width="160" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-129" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
+          <mxGeometry y="74" width="400" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-130" value="172.16.107.18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-129">
+          <mxGeometry width="93" height="35" as="geometry">
+            <mxRectangle width="93" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-131" value="数据节点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-129">
+          <mxGeometry x="93" width="147" height="35" as="geometry">
+            <mxRectangle width="147" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-132" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-129">
+          <mxGeometry x="240" width="160" height="35" as="geometry">
+            <mxRectangle width="160" height="35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-133" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
+          <mxGeometry y="109" width="400" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-134" value="172.16.107.19" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-133">
+          <mxGeometry width="93" height="39" as="geometry">
+            <mxRectangle width="93" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-135" value="数据节点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-133">
+          <mxGeometry x="93" width="147" height="39" as="geometry">
+            <mxRectangle width="147" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-136" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-133">
+          <mxGeometry x="240" width="160" height="39" as="geometry">
+            <mxRectangle width="160" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-137" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-120">
+          <mxGeometry y="148" width="400" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-138" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-137">
+          <mxGeometry width="93" height="42" as="geometry">
+            <mxRectangle width="93" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-139" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-137">
+          <mxGeometry x="93" width="147" height="42" as="geometry">
+            <mxRectangle width="147" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-140" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-137">
+          <mxGeometry x="240" width="160" height="42" as="geometry">
+            <mxRectangle width="160" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-141" value="环境信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1740" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-142" value="XDFS6自动化部署打包流水线说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="1580" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-143" value="用途：提供一个与生产环境一致的环境，给前端层、中间层、存储层研发者进行功能自测(代码层面)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1640" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-144" value="流水线触发方式：开发者的代码被合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1675" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-145" value="流水线执行的动作：流水线会自动对此环境进行整体更新升级，以及自动化打包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1710" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
