@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T03:47:08.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Hyx9Cb3I60IEFnKhVSvs" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T03:49:02.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ggMM8_Kw8EXsXBgsNn3G" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="1773" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,7 +620,7 @@
           <mxGeometry x="-175" y="-136" width="260" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-161" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-330" width="160" height="95" as="geometry" />
+          <mxGeometry x="-270" y="-350" width="160" height="125" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-162" value="harbor&lt;br&gt;http://172.16.100.2:30005&lt;br&gt;admin@111111&lt;br&gt;fsinsight_base&amp;amp;fsinsight&lt;br&gt;mgnt_base&amp;amp;mgnt" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="90" y="-350" width="151" height="130" as="geometry" />
@@ -658,8 +658,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-168" value="FSInsight checkout&lt;br&gt;/data/sdb/data/deploy/workspace/FSInsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="280" height="66" as="geometry" />
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-168" value="FSInsight checkout&lt;br&gt;172.16.100.2:/data/sdb/data/deploy/workspace/FSInsight" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="380" height="66" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-169" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SI1O0o9YNXBUpwqKgu9s-148" target="SI1O0o9YNXBUpwqKgu9s-168">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -669,6 +669,18 @@
               <mxPoint x="720" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-170" value="" style="swimlane;startSize=0;strokeColor=#000000;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-102.5" width="290" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-171" value="fsinsight-db:3306" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-170">
+          <mxGeometry x="170" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-172" value="fsinsight:9999:80&lt;br&gt;&lt;br&gt;(fsinsight-web:80)&lt;br&gt;(fsinsight-api:9001)&lt;br&gt;(fsinsight-ws:9002)&lt;br&gt;(redis:6379)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-170">
+          <mxGeometry x="20" y="30" width="125" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-173" value="docker-compose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-170">
+          <mxGeometry x="72.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
