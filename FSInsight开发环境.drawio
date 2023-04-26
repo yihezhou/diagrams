@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:59:16.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b-XUkJdU-_SVmSQMCsuM" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T02:17:27.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kjn_vFFpSSUNIhZ9RmLY" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="2294" dy="2549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4641" dy="2670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,7 +451,7 @@
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-6" value="fsinsight-dev4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-5">
           <mxGeometry x="60" y="-5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-4" value="FSInsight 安装开始&lt;br&gt;此节点用来调试FSInsight的整体安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-5">
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-4" value="快照：FSInsight 安装开始&lt;br&gt;此节点用来调试FSInsight的整体安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="SI1O0o9YNXBUpwqKgu9s-5">
           <mxGeometry x="40" y="45" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-120" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
