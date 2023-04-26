@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T02:22:12.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-gv9-R3-k5DZMw5Gl626" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T02:22:53.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IlMkF1jYrnRKGXO1O3N4" version="21.1.5" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="8589" dy="3898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5669" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,14 +214,14 @@
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-31" value="trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-33" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;xdfs6-install-1&lt;br&gt;172.16.107.31&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="1230" width="730" height="240" as="geometry" />
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-33" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;xdfs6-install-1&lt;br&gt;172.16.107.31&lt;br&gt;vip:172.16.107.30&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="1230" width="730" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-34" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;xdfs6-install-2&lt;br&gt;172.16.107.32&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1230" width="330" height="240" as="geometry" />
+          <mxGeometry x="600" y="1230" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-35" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;xdfs6-install-3&lt;br&gt;172.16.107.33&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1230" width="330" height="240" as="geometry" />
+          <mxGeometry x="960" y="1230" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-36" value="" style="swimlane;startSize=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-730" y="810" width="320" height="460" as="geometry" />
