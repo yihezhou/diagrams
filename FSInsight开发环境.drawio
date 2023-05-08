@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T03:24:38.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GbcNfZqf-K4kBelG-5CQ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T03:25:53.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LKB_CnChXhaEyWyXiBlk" version="21.2.3" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="2684" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -809,8 +809,8 @@
             <mxPoint x="-730" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSjJx_e3IDKuV7OPjBc9-24" value="FSInsight运维平台落地所涉及的团队角色和关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="-286.5" width="280" height="30" as="geometry" />
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-24" value="FSInsight智能运维平台落地所涉及的团队角色和关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-286.5" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TSjJx_e3IDKuV7OPjBc9-25" value="运维工程师&lt;br&gt;（技术团队）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1220" y="-185" width="100" height="45" as="geometry" />
@@ -883,6 +883,12 @@
         </mxCell>
         <mxCell id="TSjJx_e3IDKuV7OPjBc9-42" value="方案集成到FSInsight" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="-2.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-43" value="算法工程师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-44" value="算法工程师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
