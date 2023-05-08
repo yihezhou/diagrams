@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T03:18:00.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_-dMkvC2oq87rmYy5E7b" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T03:24:38.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GbcNfZqf-K4kBelG-5CQ" version="21.2.3" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="2684" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -823,6 +823,66 @@
         </mxCell>
         <mxCell id="TSjJx_e3IDKuV7OPjBc9-28" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;FSInsight&lt;br style=&quot;font-size: 9px;&quot;&gt;智能运维平台&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-29" value="运维场景诉求(痛点)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="-30" as="sourcePoint" />
+            <mxPoint x="1270" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" target="TSjJx_e3IDKuV7OPjBc9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="-180" as="sourcePoint" />
+            <mxPoint x="1370" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;运维需求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="-120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="-30" as="sourcePoint" />
+            <mxPoint x="1220" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-35" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.991;exitY=0.143;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;exitPerimeter=0;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-25" target="TSjJx_e3IDKuV7OPjBc9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="-30" as="sourcePoint" />
+            <mxPoint x="1370" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-27" target="TSjJx_e3IDKuV7OPjBc9-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="-30" as="sourcePoint" />
+            <mxPoint x="1370" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-38" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;运维需求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-39" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-61.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-26" target="TSjJx_e3IDKuV7OPjBc9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="-170" as="sourcePoint" />
+            <mxPoint x="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="TSjJx_e3IDKuV7OPjBc9-27" target="TSjJx_e3IDKuV7OPjBc9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1329" y="-169" as="sourcePoint" />
+            <mxPoint x="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSjJx_e3IDKuV7OPjBc9-42" value="方案集成到FSInsight" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-2.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
