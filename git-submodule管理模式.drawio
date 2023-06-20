@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T03:29:10.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NN0sb9FjyGCO--iXo2HG" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T03:29:47.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l69CxafxyJtAUVH4ABuK" version="21.3.8" type="github">
   <diagram name="第 1 页" id="yf1SPjTQhvNKcc7fC7NG">
     <mxGraphModel dx="1942" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="3CjwRvomfNy1rH_0kNOI-7" value="submodule" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="288" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3CjwRvomfNy1rH_0kNOI-8" value="迭代开发操作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3CjwRvomfNy1rH_0kNOI-8" value="迭代开发操作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry y="488" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CjwRvomfNy1rH_0kNOI-9" value="1. 个人仓库开发并合并代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="3CjwRvomfNy1rH_0kNOI-14" value="③" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="188" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3CjwRvomfNy1rH_0kNOI-15" value="回溯主仓库对应的所有子仓库版本流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3CjwRvomfNy1rH_0kNOI-15" value="回溯主仓库对应的所有子仓库版本流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry y="650" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CjwRvomfNy1rH_0kNOI-16" value="1. 进入主仓库执行④git checkout &amp;lt;old-commit&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="3CjwRvomfNy1rH_0kNOI-18" value="④⑤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="188" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3CjwRvomfNy1rH_0kNOI-19" value="回溯到线上指定版本再进行自定义开发的流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3CjwRvomfNy1rH_0kNOI-19" value="回溯到线上指定版本再进行自定义开发的流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry y="780" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CjwRvomfNy1rH_0kNOI-20" value="1. gitlab远程仓库，基于回溯的所有子仓库版本，为每个子仓库新建customer1分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
