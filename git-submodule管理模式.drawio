@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T03:28:37.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ii91ilDf44CJebDq33V8" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T03:29:10.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NN0sb9FjyGCO--iXo2HG" version="21.3.8" type="github">
   <diagram name="第 1 页" id="yf1SPjTQhvNKcc7fC7NG">
     <mxGraphModel dx="1942" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="3CjwRvomfNy1rH_0kNOI-23" value="4. 回到主仓库，进入每个子仓库同步customer1分支的改动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="940" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3CjwRvomfNy1rH_0kNOI-24" value="5. 主仓库进行新的提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="970" width="140" height="30" as="geometry" />
+        <mxCell id="3CjwRvomfNy1rH_0kNOI-24" value="5. 主仓库进行新的提交，触发Jenkins流水线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="970" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
