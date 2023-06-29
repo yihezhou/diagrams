@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T02:35:40.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y7MfKeiQGOMWW1BEFAAe" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T02:41:03.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b1OUQe7FKHCIPrVTgYnW" version="21.3.8" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="2190" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2419" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -631,10 +631,10 @@
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-160" value="package: /data/xdfs-ha-deploy/&lt;br&gt;package_out: /data/XDFS-Pack-Out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-171" y="-166" width="260" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-161" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-161" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\&lt;br&gt;00-版本发布\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="-266" y="-380" width="160" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-162" value="harbor&lt;br&gt;http://172.16.100.2:30005&lt;br&gt;admin@111111&lt;br&gt;fsinsight_base&amp;amp;fsinsight&lt;br&gt;mgnt_base&amp;amp;mgnt" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-162" value="harbor&lt;br&gt;(172.16.100.2:/root/harbor)&lt;br&gt;http://172.16.100.2:30005&lt;br&gt;admin@111111&lt;br&gt;fsinsight_base&amp;amp;fsinsight&lt;br&gt;mgnt_base&amp;amp;mgnt" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="94" y="-380" width="151" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-163" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SI1O0o9YNXBUpwqKgu9s-160" target="SI1O0o9YNXBUpwqKgu9s-161" edge="1">
