@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T08:59:32.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="KZTy1dGYyG0nq8YvA7Mz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T09:09:55.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2TyPjUJxP5m1Ks0gugud" version="21.5.2" type="github">
   <diagram name="第 1 页" id="poXkyj1D6vsKRv6Gx0ub">
-    <mxGraphModel>
+    <mxGraphModel dx="1174" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-1" value="编辑VIP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="900" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-3" value="编辑VIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-4" value="高可用域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-5" value="XDFS-HA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-6" value="node-01.xdfs.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-7" value="绑定域内节点网卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-8" value="VIP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-9" value="掩码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-11" value="ens192" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="355" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-12" value="ens256" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="355" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
