@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T09:17:42.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ov5YMXBUGqfR1wVI86kA" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:47:38.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9nYgFelazWMVbhhTf_7i" version="21.5.2" type="github">
   <diagram name="第 1 页" id="poXkyj1D6vsKRv6Gx0ub">
-    <mxGraphModel dx="1174" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,75 @@
         </mxCell>
         <mxCell id="ZORYQNpbHHB4bYGUqCD_-43" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="940" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-390" width="910" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-45" value="创建高可用域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-414" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-46" value="高可用域名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-47" value="XDFS-HA1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-48" value="集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-49" value="cluster-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-50" value="仲裁恢复锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-51" value="internal_etcd_lock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-200" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-53" value="选择内置etcd集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-54" value="etcd_cluster_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-190" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-55" value="etcd_cluster_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-80" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-57" value="选择节点与心跳网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-58" value="node-01.xdfs.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-59" value="node-02.xdfs.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-60" value="node-03.xdfs.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-10" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-61" value="node-01.xdfs.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-62" value="172.16.120.102" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-63" value="172.16.120.103" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-10" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-64" value="172.16.120.101" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-65" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZORYQNpbHHB4bYGUqCD_-66" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="960" y="20" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
