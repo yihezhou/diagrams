@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T01:32:16.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NKYruy2_e3QStAdePuLn" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T01:35:18.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="q1hbZBC73daV8Nnjzsry" version="21.6.8" type="github">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
     <mxGraphModel dx="2209" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="vSvhDizwMLqlaj25CJx4-24" value="build&lt;br&gt;docker build&amp;nbsp; &amp;nbsp;/data/sdb/fsinsight-package-input/fsinsight-backend&lt;br&gt;tar build&amp;nbsp; &amp;nbsp;/data/sdb/fsinsight-package-input/FSInsight-Package" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="970" y="250" width="370" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vSvhDizwMLqlaj25CJx4-25" value="build-input&lt;br&gt;docker bulid&amp;nbsp; /data/sdb/xdfs-package-input/xdfs6.0&lt;br&gt;&amp;nbsp;tar build&amp;nbsp; /data/sdb/xdfs-package-input/xdfs6.0/xdfs-ha-deploy&lt;br&gt;（&lt;font color=&quot;#00cc00&quot;&gt;install_v2.sh 注意django app&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
+        <mxCell id="vSvhDizwMLqlaj25CJx4-25" value="build-input&lt;br&gt;docker bulid&amp;nbsp; 172.16.107.17:$workspace/xdfs6-api/Dockerfile&lt;br&gt;&amp;nbsp;xdfs6 build 172.16.107.17:$workspace/xdfs6-api/deploy&lt;br&gt;（&lt;font color=&quot;#00cc00&quot;&gt;install_v2.sh 注意django app&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="970" y="140" width="370" height="68" as="geometry" />
         </mxCell>
         <mxCell id="vSvhDizwMLqlaj25CJx4-26" value="172.16.100.2 CI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
@@ -166,7 +166,7 @@
         <mxCell id="g5A8tSMMiwnT3m2xEH7A-13" value="docker-compose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="g5A8tSMMiwnT3m2xEH7A-11" vertex="1">
           <mxGeometry x="72.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-21" value="package&lt;br&gt;/data/sdb/xdfs-package-output" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
+        <mxCell id="BFVZz1PlwPAsUvEPE4qQ-21" value="package&lt;br&gt;172.16.107.17:/data/XDFS-Pack-Out/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
           <mxGeometry x="1350" y="142" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BFVZz1PlwPAsUvEPE4qQ-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-bug-128.png;fontSize=13;" parent="vSvhDizwMLqlaj25CJx4-19" vertex="1">
@@ -616,7 +616,7 @@
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-159" value="/usr/local/bin/upgrade_umi.sh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="64" y="-90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SI1O0o9YNXBUpwqKgu9s-160" value="package_src: 172.16.107.17:$workspace/xdfs6-api/deploy/&lt;br&gt;&amp;nbsp; package_dst: 172.16.107.17:/data/XDFS-Pack-Out/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="SI1O0o9YNXBUpwqKgu9s-160" value="package_src: 172.16.107.17:$workspace/xdfs6-api/deploy/&lt;br&gt;package_dst: 172.16.107.17:/data/XDFS-Pack-Out/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-166" width="340" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SI1O0o9YNXBUpwqKgu9s-161" value="NAS&lt;br&gt;\192.168.1.10\研发\XDFS\&lt;br&gt;00-版本发布\开发测试版\6.0&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
