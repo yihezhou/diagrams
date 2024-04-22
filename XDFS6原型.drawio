@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T03:42:29.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tCujjm8UNOmv2A5zEa2y" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T03:50:24.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n67RxdltYG9I0LyezQUK" version="24.2.5" type="github">
   <diagram name="第 1 页" id="poXkyj1D6vsKRv6Gx0ub">
     <mxGraphModel dx="1317" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,14 +235,80 @@
         <mxCell id="iZCq--ZPS89diM5ZzLBd-15" value="不加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="1211" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZCq--ZPS89diM5ZzLBd-16" value="测试邮件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-16" value="测试邮件服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="290" y="1310" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iZCq--ZPS89diM5ZzLBd-17" value="保存设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-17" value="保存设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="1310" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iZCq--ZPS89diM5ZzLBd-18" value="提示：请使用您的邮箱开启smtp服务，并获取登录授权码(不是邮箱的登录密码)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="890" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="880" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-20" value="新建邮件通知组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="840" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-21" value="manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="960" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-22" value="通知组名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="965" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-23" value="XDFS Alert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1020" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-24" value="告警主题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1025" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-26" value="添加联系人邮件地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1085" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-27" value="zhouyh@taocloudx.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1130" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-29" value="接收告警级别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1226" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1231" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-31" value="critical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1231" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-33" value="warning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1226" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-34" value="关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1310" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-35" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1310" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-36" value="提示：您可以为不同的通知组设置接收不同的告警级别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="890" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-37" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1085" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-38" value="2653688810@qq.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1170" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1231" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-40" value="info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="1226" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-41" value="这是管理者通知组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1265" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-42" value="通知组描述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1265" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
