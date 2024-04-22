@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T03:40:41.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hMK8g5kl2cs1rG3xoBus" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T03:42:29.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tCujjm8UNOmv2A5zEa2y" version="24.2.5" type="github">
   <diagram name="第 1 页" id="poXkyj1D6vsKRv6Gx0ub">
     <mxGraphModel dx="1317" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="iZCq--ZPS89diM5ZzLBd-17" value="保存设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1310" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZCq--ZPS89diM5ZzLBd-18" value="提示：请使用您的邮箱开启smtp服务，并获取登录授权码(不是邮箱的登录密码)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="890" width="440" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
