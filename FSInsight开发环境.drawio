@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram id="FTMYfUYjVG7pnufS5h2L" name="第 1 页">
-    <mxGraphModel dx="4832" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5814" dy="2281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,8 +959,8 @@
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-10" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-1">
           <mxGeometry x="880" y="60" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-23" value="合并到master主分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2350" width="200" height="40" as="geometry" />
+        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-23" value="模块负责人合并到master主分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="225" y="2356" width="299" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-24" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-245" y="2450" width="1325" height="200" as="geometry" />
@@ -1145,7 +1145,7 @@
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WPUF1kV05Mkyhm9Ay1hG-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="2740" as="sourcePoint" />
-            <mxPoint x="1340" y="2830" as="targetPoint" />
+            <mxPoint x="1337" y="2830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-78" value="Push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
@@ -1197,6 +1197,9 @@
             <mxPoint x="2240" y="2740" as="sourcePoint" />
             <mxPoint x="2290" y="2690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-96" value="研发负责人控制集成流水线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="2971" width="258" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
