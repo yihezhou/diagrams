@@ -1295,6 +1295,12 @@
         <mxCell id="TAeRsRAtM6rvoqclsYB1-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/git-branch-128.png" vertex="1" parent="1">
           <mxGeometry x="247" y="2351" width="88" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="TAeRsRAtM6rvoqclsYB1-45" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="1527.13" y="2717" width="85.37" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeRsRAtM6rvoqclsYB1-46" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="1366.67" y="2874" width="83.33" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
