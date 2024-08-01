@@ -953,7 +953,7 @@
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-1" source="WPUF1kV05Mkyhm9Ay1hG-8" target="WPUF1kV05Mkyhm9Ay1hG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-8" value="代码质量分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-1" vertex="1">
+        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-8" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-1" vertex="1">
           <mxGeometry x="680" y="60" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TAeRsRAtM6rvoqclsYB1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-1" source="WPUF1kV05Mkyhm9Ay1hG-10" edge="1">
@@ -961,7 +961,7 @@
             <mxPoint x="1090" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-10" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-1" vertex="1">
+        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-10" value="代码质量分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-1" vertex="1">
           <mxGeometry x="880" y="60" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TAeRsRAtM6rvoqclsYB1-51" value="Deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="WPUF1kV05Mkyhm9Ay1hG-1" vertex="1">
@@ -1025,6 +1025,9 @@
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-80" value="Push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="WPUF1kV05Mkyhm9Ay1hG-24" vertex="1">
           <mxGeometry x="1198" y="221" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-9" value="Push?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-24">
+          <mxGeometry x="959" y="160" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Git项目-A&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-510" y="2596" width="170" height="110" as="geometry" />
@@ -1097,6 +1100,9 @@
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-78" value="Push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="WPUF1kV05Mkyhm9Ay1hG-44" vertex="1">
           <mxGeometry x="1195" y="218" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-10" value="Push?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-44">
+          <mxGeometry x="965" y="159" width="75" height="36" as="geometry" />
+        </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Git项目-B&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-512" y="3013" width="170" height="110" as="geometry" />
         </mxCell>
@@ -1152,6 +1158,9 @@
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-79" value="Push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="WPUF1kV05Mkyhm9Ay1hG-59" vertex="1">
           <mxGeometry x="1206" y="251" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-11" value="Push?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-59">
+          <mxGeometry x="979" y="178" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Git项目-C&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-512" y="3503" width="170" height="110" as="geometry" />
