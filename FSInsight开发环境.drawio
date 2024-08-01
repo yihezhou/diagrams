@@ -1192,7 +1192,7 @@
         <mxCell id="TAeRsRAtM6rvoqclsYB1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="WPUF1kV05Mkyhm9Ay1hG-92" target="TAeRsRAtM6rvoqclsYB1-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-92" value="集成测试&lt;div&gt;(Test Environment)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-81" vertex="1">
+        <mxCell id="WPUF1kV05Mkyhm9Ay1hG-92" value="集成测试&lt;div&gt;(Test Environment)&lt;/div&gt;&lt;div&gt;(API, UI, Performence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-81" vertex="1">
           <mxGeometry x="309" y="60" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TAeRsRAtM6rvoqclsYB1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="TAeRsRAtM6rvoqclsYB1-37" target="WPUF1kV05Mkyhm9Ay1hG-90" edge="1">
