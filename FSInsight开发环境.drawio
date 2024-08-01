@@ -1189,17 +1189,28 @@
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-90" value="发布版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-81" vertex="1">
           <mxGeometry x="815" y="60" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TAeRsRAtM6rvoqclsYB1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="WPUF1kV05Mkyhm9Ay1hG-92" target="TAeRsRAtM6rvoqclsYB1-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TAeRsRAtM6rvoqclsYB1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="WPUF1kV05Mkyhm9Ay1hG-92" target="d9R1aGbAmc5OW3Dhbdzl-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="102" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-92" value="集成测试&lt;div&gt;(Test Environment)&lt;/div&gt;&lt;div&gt;(API, UI, Performence)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-81" vertex="1">
-          <mxGeometry x="309" y="60" width="140" height="90" as="geometry" />
+          <mxGeometry x="257" y="60" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TAeRsRAtM6rvoqclsYB1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="TAeRsRAtM6rvoqclsYB1-37" target="WPUF1kV05Mkyhm9Ay1hG-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeRsRAtM6rvoqclsYB1-37" value="整体打包&lt;div&gt;(Package Environment)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WPUF1kV05Mkyhm9Ay1hG-81" vertex="1">
-          <mxGeometry x="565" y="60" width="140" height="90" as="geometry" />
+          <mxGeometry x="624" y="60" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WPUF1kV05Mkyhm9Ay1hG-81" source="d9R1aGbAmc5OW3Dhbdzl-12" target="TAeRsRAtM6rvoqclsYB1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-12" value="email通知测试验收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-81">
+          <mxGeometry x="455" y="60" width="107" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d9R1aGbAmc5OW3Dhbdzl-13" value="pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WPUF1kV05Mkyhm9Ay1hG-81">
+          <mxGeometry x="402" y="75" width="43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WPUF1kV05Mkyhm9Ay1hG-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WPUF1kV05Mkyhm9Ay1hG-74" target="WPUF1kV05Mkyhm9Ay1hG-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
