@@ -145,6 +145,9 @@
         <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-33" value="Acceptance Stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-26">
           <mxGeometry y="230" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-66" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Branch: Master|main&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Compile&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Unit Test&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Code Quality Analyze&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Build Image&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Push Image to Artifact Repository&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-26">
+          <mxGeometry y="260" width="220" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-32" value="PASS" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="410" y="290" width="60" height="30" as="geometry" />
         </mxCell>
@@ -257,6 +260,47 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="92" y="155" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-67" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="110" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/800px-Pytest_logo.svg.png;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-67">
+          <mxGeometry x="65" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/sonarqube.svg;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-67">
+          <mxGeometry x="10" y="100" width="180" height="44.1" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.227;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FycG8oyHSj_Sa7Rq2zaZ-26" target="FycG8oyHSj_Sa7Rq2zaZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="540" as="sourcePoint" />
+            <mxPoint x="760" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="298" />
+              <mxPoint x="880" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-72" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-72">
+          <mxGeometry x="42.5" y="11.559999999999999" width="115" height="64.69" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/H/harbor-logo-3B4B34B49A-seeklogo.com.png;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-72">
+          <mxGeometry x="59.5" y="96.25000000000011" width="81" height="100.83" as="geometry" />
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.541;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FycG8oyHSj_Sa7Rq2zaZ-26" target="FycG8oyHSj_Sa7Rq2zaZ-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="sourcePoint" />
+            <mxPoint x="790" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="560" />
+              <mxPoint x="880" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-82" value="docker push" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
