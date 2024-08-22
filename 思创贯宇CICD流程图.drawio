@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="rBroqQjTNLhBKOfvFXeg">
-    <mxGraphModel dx="1844" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2312" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           <mxGeometry y="250" width="220" height="390" as="geometry" />
         </mxCell>
         <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/7141/7141724.png;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-26">
-          <mxGeometry x="208" y="510" width="32" height="32" as="geometry" />
+          <mxGeometry x="200" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-122" value="Package Stage(individual pipeline)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FycG8oyHSj_Sa7Rq2zaZ-26">
           <mxGeometry y="630" width="240" height="30" as="geometry" />
