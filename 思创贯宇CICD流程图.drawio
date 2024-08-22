@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="rBroqQjTNLhBKOfvFXeg">
-    <mxGraphModel dx="2312" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,6 +541,21 @@
         <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-145" value="Installer" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="990.0010313858676" y="920.0049865502589" as="geometry">
             <mxPoint x="6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#cdeb8b;strokeColor=#999900;" edge="1" parent="1" source="FycG8oyHSj_Sa7Rq2zaZ-110" target="FycG8oyHSj_Sa7Rq2zaZ-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851" y="618" as="sourcePoint" />
+            <mxPoint x="939" y="681" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="750" />
+              <mxPoint x="1150" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FycG8oyHSj_Sa7Rq2zaZ-147" value="Automatic Test" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1190.003333333333" y="550.0000000000002" as="geometry">
+            <mxPoint x="-4" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
