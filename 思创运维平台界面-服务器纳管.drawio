@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="SJDpvmF3WLKm9pQOhpVg">
-    <mxGraphModel>
+    <mxGraphModel dx="1036" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="1010" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="210" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-10" value="时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="830" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="290" y="170" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-12" value="请输入服务器IP|账号|密码（以|分隔）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="300" y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-13" value="添加服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="290" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.207;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QzqtVrHRzzi3PcHoO_PS-1" source="QzqtVrHRzzi3PcHoO_PS-13" target="QzqtVrHRzzi3PcHoO_PS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-16" value="" style="swimlane;startSize=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="570" y="170" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-18" value="应用服务器&lt;div&gt;x.x.x.x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-16">
+          <mxGeometry x="20" y="40" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-19" value="数据库服务器&lt;div&gt;x.x.x.x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-16">
+          <mxGeometry x="220" y="40" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-20" value="重启" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-16">
+          <mxGeometry x="30" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-21" value="命令行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-16">
+          <mxGeometry x="90" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-29" value="运维平台版本号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="890" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-30" value="登录角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-1">
+          <mxGeometry x="950" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="210" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-4" value="节点管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-5" value="服务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-6" value="服务更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-7" value="、、、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-8" value="思创运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="108.75" y="50" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-17" value="服务器列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="208" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-28" value="服务安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="210" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
