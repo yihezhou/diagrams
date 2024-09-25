@@ -70,6 +70,140 @@
         <mxCell id="QzqtVrHRzzi3PcHoO_PS-28" value="服务安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-31" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="1010" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="210" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-33" value="时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="830" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-36" value="检测产品包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="290" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.207;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QzqtVrHRzzi3PcHoO_PS-31" source="QzqtVrHRzzi3PcHoO_PS-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.68000000000006" y="172.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-43" value="运维平台版本号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="890" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-44" value="登录角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="950" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-53" value="CrealifeUser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="280" y="177" width="210" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-56" value="安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="410" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-57" value="CrealifeXXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="515" y="177" width="210" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-58" value="安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="645" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-59" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="750" y="177" width="210" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-60" value="安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-31">
+          <mxGeometry x="880" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="210" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-46" value="节点管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-47" value="服务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="840" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-48" value="服务更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="900" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-49" value="、、、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="960" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-50" value="思创运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="108.75" y="670" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-52" value="服务安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="780" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-61" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1230" width="1010" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="210" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-63" value="时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="830" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-66" value="运维平台版本号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="890" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-67" value="登录角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="950" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="260" y="100" width="700" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-82" value="CrealifeUser安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="570" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="390" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-84" value="节点选择：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="310" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-85" value="数据库信息：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="640" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="720" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-87" value="服务端口：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="310" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-88" value="此处默认值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="390" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-89" value="开始安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="850" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-90" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QzqtVrHRzzi3PcHoO_PS-61" target="QzqtVrHRzzi3PcHoO_PS-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-91" value="版本号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QzqtVrHRzzi3PcHoO_PS-61">
+          <mxGeometry x="680" y="152.5" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1230" width="210" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-75" value="节点管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-76" value="服务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1420" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-77" value="服务更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1480" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-78" value="、、、" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1540" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-79" value="思创运维平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="1250" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QzqtVrHRzzi3PcHoO_PS-80" value="服务安装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1360" width="210" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
