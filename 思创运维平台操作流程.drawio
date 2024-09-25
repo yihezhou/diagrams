@@ -1,9 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="q3cjUY8KxydkKrdw9-tH">
-    <mxGraphModel>
+    <mxGraphModel dx="1036" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="330" width="330" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8" source="qPrMlgB-gVR1ZQ3tSMFi-21" target="qPrMlgB-gVR1ZQ3tSMFi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-37" value="信息存入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPrMlgB-gVR1ZQ3tSMFi-35">
+          <mxGeometry x="-0.14" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-21" value="默认产品包存储路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8">
+          <mxGeometry x="105" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;运维平台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8">
+          <mxGeometry x="130" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8" source="qPrMlgB-gVR1ZQ3tSMFi-3" target="qPrMlgB-gVR1ZQ3tSMFi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-36" value="解压、识别" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPrMlgB-gVR1ZQ3tSMFi-34">
+          <mxGeometry x="-0.09" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8" source="qPrMlgB-gVR1ZQ3tSMFi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-3" value="运维平台服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8">
+          <mxGeometry x="105" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-4" value="运维平台数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-8">
+          <mxGeometry x="105" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPrMlgB-gVR1ZQ3tSMFi-18" target="qPrMlgB-gVR1ZQ3tSMFi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-10" value="业务系统代码包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-18">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-19" value="版本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-18">
+          <mxGeometry x="40" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-20" value="sql脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-18">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-41" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-42" value="运维平台操作界面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-41">
+          <mxGeometry x="40" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-43" value="模块信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-41">
+          <mxGeometry x="40" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-44" value="安装按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qPrMlgB-gVR1ZQ3tSMFi-41">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qPrMlgB-gVR1ZQ3tSMFi-48" target="qPrMlgB-gVR1ZQ3tSMFi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-51" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPrMlgB-gVR1ZQ3tSMFi-50">
+          <mxGeometry x="0.0145" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPrMlgB-gVR1ZQ3tSMFi-48" value="服务信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
