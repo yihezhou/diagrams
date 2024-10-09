@@ -740,7 +740,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zurhScx1ucK6-C1ni5ml-40" value="&lt;div&gt;思创运维脚本（一阶段）&lt;/div&gt;思创运维平台（二阶段）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="zurhScx1ucK6-C1ni5ml-40" value="&lt;div&gt;思创运维脚本&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;一阶段，解决现有基于Linux的项目上的运维问题）&lt;/span&gt;&lt;/div&gt;思创运维平台（二阶段）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="1401.87" y="2010" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.816;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zurhScx1ucK6-C1ni5ml-40" target="zurhScx1ucK6-C1ni5ml-22">
