@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="KADh7eXNDiNupCGbdeuv">
-    <mxGraphModel dx="611" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,11 +64,11 @@
         <mxCell id="HvxJCi_6hqipYNqYmRr2-20" value="安装配置文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HvxJCi_6hqipYNqYmRr2-22" value="系统整体安装工具流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="18" width="180" height="30" as="geometry" />
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-22" value="Linux下系统整体安装工具流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="18" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HvxJCi_6hqipYNqYmRr2-23" value="应用程序运维工具(备份、升级、回滚)流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="790" width="280" height="30" as="geometry" />
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-23" value="Linux下应用程序运维工具(备份、升级、回滚)流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HvxJCi_6hqipYNqYmRr2-24" value="标准产品库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="850" width="120" height="60" as="geometry" />
