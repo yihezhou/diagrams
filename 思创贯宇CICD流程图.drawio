@@ -900,6 +900,48 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-82" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1370" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-83" value="Jenkinsfile in Gitlab&lt;div&gt;branch: CrealifeUser&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1335" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-84" value="Download From Nexus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1498" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-85" value="Build Docker Image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1498" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-86" value="Push Image to Harbor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1498" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-87" value="Deploy to Test Env" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1178.12" y="1498" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-88" value="Automatic Acceptance Test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1372.12" y="1498" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-89" value="scripts" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1370" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-90" value="Installer.sh in Gitlab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1328" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-91" value="configs" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1375" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-93" value="Offline Package&lt;div&gt;Resource&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1500" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-94" value="Save Images" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="1510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-95" value="Build Offline Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1896.12" y="1510" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-96" value="Upload to NAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="1510" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
