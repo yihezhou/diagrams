@@ -942,6 +942,9 @@
         <mxCell id="zurhScx1ucK6-C1ni5ml-96" value="Upload to NAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2060" y="1510" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zurhScx1ucK6-C1ni5ml-97" value="Jenkins Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1592.5" y="1580" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
