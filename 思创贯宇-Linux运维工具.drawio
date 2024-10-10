@@ -168,6 +168,98 @@
         <mxCell id="HvxJCi_6hqipYNqYmRr2-52" value="回滚旧版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1181" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-55" value="Linux下Nginx代理运维工具流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1310" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-56" target="HvxJCi_6hqipYNqYmRr2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-91" value="安装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-90">
+          <mxGeometry x="-0.0043" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-56" value="项目整体安装包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-57" target="HvxJCi_6hqipYNqYmRr2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-93" value="生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-92">
+          <mxGeometry x="-0.0241" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-57" value="汇总当前已有的模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-58" target="HvxJCi_6hqipYNqYmRr2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-95" value="启动nginx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-76">
+          <mxGeometry x="-0.2675" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-58" target="HvxJCi_6hqipYNqYmRr2-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-87" value="1.同步已有配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-86">
+          <mxGeometry x="-0.0154" y="-1" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-58" value="初始Nginx.conf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-59" value="Nginx启动运行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-60" target="HvxJCi_6hqipYNqYmRr2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-75" value="4.重启nginx" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-74">
+          <mxGeometry x="-0.242" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-60" target="HvxJCi_6hqipYNqYmRr2-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-60" target="HvxJCi_6hqipYNqYmRr2-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-60" target="HvxJCi_6hqipYNqYmRr2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-89" value="3.推送新配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-88">
+          <mxGeometry x="-0.0033" relative="1" as="geometry">
+            <mxPoint x="20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-60" value="NginxConfig可视化&lt;div&gt;配置工具&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1654" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-79" value="站点配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1800" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-80" value="全局配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1800" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-81" value="Linux下应用程序运维工具(备份、升级、回滚)流程设计：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-82" value="反向代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1800" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.428;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HvxJCi_6hqipYNqYmRr2-60" target="HvxJCi_6hqipYNqYmRr2-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvxJCi_6hqipYNqYmRr2-94" value="2. 修改已有配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HvxJCi_6hqipYNqYmRr2-84">
+          <mxGeometry x="-0.4921" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
