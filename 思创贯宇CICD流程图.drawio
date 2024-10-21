@@ -862,8 +862,8 @@
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1660" y="2430" as="sourcePoint" />
-            <mxPoint x="2200" y="1920" as="targetPoint" />
+            <mxPoint x="1660" y="2490" as="sourcePoint" />
+            <mxPoint x="2440" y="1920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1660" y="1920" />
             </Array>
@@ -1020,6 +1020,27 @@
         </mxCell>
         <mxCell id="T2sMU6FZCulkoQD_xE3f-26" value="思创内部运维团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1542.12" y="2138" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-27" value="一个研发团队(前端、后端、架构)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1438" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-28" value="三个制品库&lt;div&gt;（研发制品库Nexus,标准制品库harbor,预生产制品库NAS）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1714" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-29" value="一个源码仓库GitLab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1582" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-30" value="三条流水线&lt;div&gt;（CrealifeFrontendPipeline,&lt;/div&gt;&lt;div&gt;CrealifeBackendPipeline,&lt;/div&gt;&lt;div&gt;CrealifeManagerPipeline）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1851" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-31" value="一套自动化运维平台（或者运维脚本）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1996" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-32" value="一个远程运维团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="1996" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-33" value="一个项目交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="2121.5" width="570" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
