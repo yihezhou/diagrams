@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rBroqQjTNLhBKOfvFXeg">
-    <mxGraphModel dx="1220" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1435" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -732,7 +732,7 @@
         <mxCell id="zurhScx1ucK6-C1ni5ml-39" value="参数化构建（研产审核、触发）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="1398" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zurhScx1ucK6-C1ni5ml-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="zurhScx1ucK6-C1ni5ml-40" target="zurhScx1ucK6-C1ni5ml-53" edge="1">
+        <mxCell id="zurhScx1ucK6-C1ni5ml-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zurhScx1ucK6-C1ni5ml-40" target="T2sMU6FZCulkoQD_xE3f-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-72" value="运行维护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zurhScx1ucK6-C1ni5ml-71" vertex="1" connectable="0">
@@ -740,7 +740,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zurhScx1ucK6-C1ni5ml-40" value="&lt;div&gt;思创运维脚本&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;一阶段，解决现有基于Linux的项目上的运维问题）&lt;/span&gt;&lt;/div&gt;思创运维平台（二阶段）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="zurhScx1ucK6-C1ni5ml-40" value="&lt;div&gt;思创运维脚本&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;一阶段）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决兰大手术室基于&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Linux的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;项目上的运维问题&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1401.87" y="2010" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.816;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zurhScx1ucK6-C1ni5ml-40" target="zurhScx1ucK6-C1ni5ml-22" edge="1">
@@ -887,7 +887,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-78" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
-          <mxGeometry x="1457.8899999999999" y="2101.5" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1584.9999999999998" y="2080" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zurhScx1ucK6-C1ni5ml-79" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
