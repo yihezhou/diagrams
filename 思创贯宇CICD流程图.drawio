@@ -1039,7 +1039,7 @@
         <mxCell id="T2sMU6FZCulkoQD_xE3f-32" value="一个远程运维团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2923" y="1996" width="220" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="T2sMU6FZCulkoQD_xE3f-33" value="一个项目交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T2sMU6FZCulkoQD_xE3f-33" value="一个项目敏捷交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="2121.5" width="570" height="72" as="geometry" />
         </mxCell>
       </root>
