@@ -1390,11 +1390,11 @@
         <mxCell id="FjOy93BU1dzIVtMEy_8x-102" value="tag pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
           <mxGeometry y="300" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FjOy93BU1dzIVtMEy_8x-105" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Tag: vx.x.x&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Compile&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Docker Bulid with git Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Image to Nexus&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
-          <mxGeometry y="330" width="170" height="150" as="geometry" />
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-105" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Tag: vx.x.x&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Compile&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Docker Bulid with git Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload artifact to Nexus&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Push Image to Harbor&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
+          <mxGeometry y="327" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-111" value="product release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
-          <mxGeometry y="492" width="250" height="30" as="geometry" />
+          <mxGeometry y="507" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC00CC;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-30" target="FjOy93BU1dzIVtMEy_8x-80">
           <mxGeometry relative="1" as="geometry" />
@@ -1499,27 +1499,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-107" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1076.35" y="3580" width="163.65" height="100" as="geometry" />
+          <mxGeometry x="1075.57" y="3530" width="163.65" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png;" vertex="1" parent="1">
-          <mxGeometry x="1128.29" y="3610" width="59.76" height="60" as="geometry" />
+          <mxGeometry x="1127.51" y="3560" width="59.76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-108" value="Develop Artifact/Offline-Image Artifact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="3680" width="220" height="30" as="geometry" />
+          <mxGeometry x="1044.22" y="3630" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FjOy93BU1dzIVtMEy_8x-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.669;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00CC00;strokeColor=#00CC00;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-78" target="FjOy93BU1dzIVtMEy_8x-107">
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00CC00;strokeColor=#00CC00;" edge="1" parent="1" target="FjOy93BU1dzIVtMEy_8x-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="3590" as="sourcePoint" />
+            <mxPoint x="860" y="3660" as="sourcePoint" />
             <mxPoint x="1140" y="3540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="3660" />
+              <mxPoint x="960" y="3610" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjOy93BU1dzIVtMEy_8x-110" value="Upload Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-109">
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-110" value="upload artifact" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-109">
           <mxGeometry x="-0.1031" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-114" value="最终达到的目标：&lt;div&gt;1. 使用规范的git分支策略来实现软件的分布式协作和版本控制以及主线发版&lt;/div&gt;&lt;div&gt;2. 使用git tag使组件的版本管理更加语义化，方便切换到具体的版本来定制化开发，简化CI/CD Pipeline&lt;/div&gt;&lt;div&gt;3. develop公共分支合并时，触发develop pipeline来自动化编译，打包，测试，部署集成测试环境，实现软件的快速优化迭代&lt;/div&gt;&lt;div&gt;4. master公共分支只保存随时可用的源代码，不触发任何pipeline&lt;/div&gt;&lt;div&gt;5. 当develop分支上的功能集合开发完毕，并通过集成测试后，达到发版要求，将develop分支合并到master主线，并为当前发布版本打Tag&lt;/div&gt;&lt;div&gt;6. git push &amp;lt;tag&amp;gt; 会触发tag pipeline来自动为组件打包，并上传到研发组件仓库，完成最终的发版&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="3080" width="750" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-115" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1072.3999999999999" y="3690" width="163.65" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/H/harbor-logo-3B4B34B49A-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="1129.28" y="3722" width="46.59" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.708;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=67.5;entryPerimeter=0;strokeColor=#00CC00;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-78" target="FjOy93BU1dzIVtMEy_8x-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="3930" as="sourcePoint" />
+            <mxPoint x="910" y="3880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="3690" />
+              <mxPoint x="960" y="3758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-119" value="push image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-118">
+          <mxGeometry x="-0.0252" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
