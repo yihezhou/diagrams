@@ -1288,8 +1288,8 @@
         <mxCell id="FjOy93BU1dzIVtMEy_8x-44" value="Developer Local Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-42">
           <mxGeometry x="40" y="170" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FjOy93BU1dzIVtMEy_8x-45" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-42">
-          <mxGeometry x="110" y="30" width="70" height="30" as="geometry" />
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-45" value="Feature/A" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-42">
+          <mxGeometry x="100" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-42">
           <mxGeometry x="160" y="28.75" width="32.5" height="32.5" as="geometry" />
