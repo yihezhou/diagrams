@@ -1336,6 +1336,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-64" target="FjOy93BU1dzIVtMEy_8x-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-113" value="trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-112">
+          <mxGeometry x="0.6723" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-64" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="3760" width="148" height="120" as="geometry" />
         </mxCell>
@@ -1378,6 +1386,15 @@
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-81" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Branch: develop&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Compile&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Unit Test&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Docker Bulid with latest Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Deploy to Test Env&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
           <mxGeometry y="108" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-102" value="tag pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
+          <mxGeometry y="300" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-105" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Tag: vx.x.x&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Compile&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Docker Bulid with git Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Image to Nexus&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
+          <mxGeometry y="330" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-111" value="product release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="FjOy93BU1dzIVtMEy_8x-78">
+          <mxGeometry y="492" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC00CC;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-30" target="FjOy93BU1dzIVtMEy_8x-80">
           <mxGeometry relative="1" as="geometry" />
@@ -1465,6 +1482,39 @@
         </mxCell>
         <mxCell id="FjOy93BU1dzIVtMEy_8x-101" value="load image &amp;amp; restart service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-100">
           <mxGeometry x="-0.0912" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-57" target="FjOy93BU1dzIVtMEy_8x-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="3320" />
+              <mxPoint x="460" y="3515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-104" value="trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-103">
+          <mxGeometry x="0.7719" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-107" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1076.35" y="3580" width="163.65" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png;" vertex="1" parent="1">
+          <mxGeometry x="1128.29" y="3610" width="59.76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-108" value="Develop Artifact" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.669;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FjOy93BU1dzIVtMEy_8x-78" target="FjOy93BU1dzIVtMEy_8x-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="3590" as="sourcePoint" />
+            <mxPoint x="1140" y="3540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjOy93BU1dzIVtMEy_8x-110" value="Upload Image" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FjOy93BU1dzIVtMEy_8x-109">
+          <mxGeometry x="-0.1031" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
