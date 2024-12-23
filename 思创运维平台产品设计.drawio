@@ -55,7 +55,7 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-21" value="需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="180" y="75" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-22" value="                                      使用运维平台自动化&#xa;                                      实施与部署业务系统" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-22" value="                                                    用户可以使用运维平台自动化&#xa;                                                        实施与部署医疗数字化业务系统" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="130" y="120" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-24" value="                                                           友好的运维可视化界面，易于上手" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
@@ -94,7 +94,7 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-36" value="                                                 即使是零基础的运维人员也&#xa;                           可以快速上手" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="130" y="180" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-37" value="                                                       无Agent的轻量级运维平台架构&#xa;                                         运维平台自身部署方便" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-37" value="                                                运维平台自身部署方便快捷" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="130" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-38" value="                                                             基于KV的应用配置中心，便于配置&#xa;                           变更              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
