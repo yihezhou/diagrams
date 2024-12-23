@@ -25,8 +25,8 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-8" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon9;fontColor=#ffffff;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="17.5" y="80" width="25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-11" value="目标&lt;div&gt;群体&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
-          <mxGeometry x="50" y="70" width="50" height="40" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-11" value="目标&lt;span style=&quot;background-color: initial;&quot;&gt;群体&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="40" y="75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="H0pLZdyPVKQFM28tcbeX-2" source="H0pLZdyPVKQFM28tcbeX-2" target="H0pLZdyPVKQFM28tcbeX-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,7 +94,7 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-36" value="                                                 即使是零基础的运维人员也&#xa;                           可以快速上手" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="130" y="180" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-37" value="                                                运维平台自身部署方便快捷" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-37" value="                                                  运维平台采用DevOps方案，&#xa;                                         平台自身部署方便快捷" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="130" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-38" value="                                                             基于KV的应用配置中心，便于配置&#xa;                           变更              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
