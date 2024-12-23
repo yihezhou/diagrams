@@ -100,6 +100,24 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-38" value="                                                             基于KV的应用配置中心，便于配置&#xa;                           变更              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="260" y="200" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="400" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_accuracy-128.png" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="405" y="75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-45" value="商业目标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="430" y="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-46" value="                                                      可以与公司主产品绑定销售，&#xa;                                      为公司创造额外收益" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="390" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-47" value="                                                           与主营医疗数字化业务深度融合，&#xa;                              为公司降本增效" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="390" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-48" value="                                 医院相关运维人员" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="10" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;产品愿景板&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="90" height="30" as="geometry" />
         </mxCell>
