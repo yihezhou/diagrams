@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="1927" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,17 +55,26 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-21" value="需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
           <mxGeometry x="180" y="75" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-22" value="                               使用运维平台&#xa;                              实施与部署业务系统" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
-          <mxGeometry x="140" y="130" width="20" height="20" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-22" value="                           使用运维平台&#xa;                                      实施与部署业务系统" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="120" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-24" value="                                 可视化的节点管理" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
-          <mxGeometry x="140" y="160" width="20" height="20" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-24" value="                                                           友好的运维可视化界面，易于上手" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="160" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-25" value="                                 可视化的服务管理" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
-          <mxGeometry x="140" y="190" width="20" height="20" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-25" value="                                                           可视化的节点管理、服务管理界面" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="180" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-23" value="                                 可视化的配置管理" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
-          <mxGeometry x="140" y="220" width="20" height="20" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-23" value="                                                                         基于容器化的微服务标准部署架构              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-27" value="                                                    降低业务系统部署运维的难度" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-29" value="                                                         标准的前后端应用部署、升级、&#xa;                                   回滚功能              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-30" value="                                                                         关键业务系统指标监控与告警功能              " style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=7;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-2">
+          <mxGeometry x="130" y="240" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;产品愿景板&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="90" height="30" as="geometry" />
