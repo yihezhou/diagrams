@@ -852,10 +852,10 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-329" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="270" y="224.98000000000002" width="580" height="54.98" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-330" value="用户数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-330" value="用户&amp;amp;审计&lt;div&gt;数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="290" y="234.96000000000004" width="80" height="35.02" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-331" value="监控数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-331" value="配置数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="670" y="234.96000000000004" width="70" height="35.02" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-332" value="软件模块&lt;div&gt;部署数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
@@ -864,10 +864,10 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-333" value="软件模块&lt;div&gt;信息数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="475" y="234.96000000000004" width="70" height="35.02" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-334" value="审计数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-334" value="被控主机&lt;div&gt;信息数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="390" y="234.96000000000004" width="70" height="35.02" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-335" value="告警数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-335" value="监控&amp;amp;告警&lt;div&gt;数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
           <mxGeometry x="760" y="234.96000000000004" width="70" height="35.02" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-336" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;运维业务逻辑层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-315">
