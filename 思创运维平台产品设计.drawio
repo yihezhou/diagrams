@@ -247,7 +247,7 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-157" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1. 不断迭代优化产品设计与架构设计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. 增加其他的业务监控指标&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="610" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-158" value="1. 监控中心(优化)&lt;div&gt;2. 告警中心(优化)&lt;/div&gt;&lt;div&gt;3. DashBoard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-158" value="1. 监控中心(优化)&lt;div&gt;2. 告警中心(优化)&lt;/div&gt;&lt;div&gt;3. 监控大盘&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="720" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-160" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
