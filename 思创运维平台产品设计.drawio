@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="2312" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,30 +176,30 @@
             <mxRectangle width="140" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-83" value="&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;1. 基于标准部署架构，完成应用集群管理模块&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;2.基于标准部署架构，完成中间件服务管理模块&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-80">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-83" value="&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;1. 基于标准部署架构，完成应用集群管理模块&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;2.基于标准部署架构，完成中间件服务管理模块&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;3.&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;收集业务系统关键指标，实现业务系统指标监控与告警&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-80">
           <mxGeometry x="240" width="140" height="110" as="geometry">
             <mxRectangle width="140" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-100" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="30" y="720" width="380" height="80" as="geometry" />
+          <mxGeometry x="30" y="720" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-101" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-100">
-          <mxGeometry width="380" height="80" as="geometry" />
+          <mxGeometry width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-102" value="&amp;nbsp; &amp;nbsp; 特性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-101">
-          <mxGeometry width="100" height="80" as="geometry">
-            <mxRectangle width="100" height="80" as="alternateBounds" />
+          <mxGeometry width="100" height="110" as="geometry">
+            <mxRectangle width="100" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-103" value="&lt;font&gt;1. 账号管理&lt;/font&gt;&lt;div&gt;&lt;font&gt;2. 权限与角色管理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;3. 秘钥设置&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;4. 主机管理&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-101">
-          <mxGeometry x="100" width="140" height="80" as="geometry">
-            <mxRectangle width="140" height="80" as="alternateBounds" />
+          <mxGeometry x="100" width="140" height="110" as="geometry">
+            <mxRectangle width="140" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-104" value="&lt;div&gt;1. 基础环境&lt;/div&gt;&amp;nbsp; &amp;nbsp; 1.1 集群管理&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.2 数据库管理&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.3 Nginx服务管理&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-101">
-          <mxGeometry x="240" width="140" height="80" as="geometry">
-            <mxRectangle width="140" height="80" as="alternateBounds" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-104" value="&lt;div&gt;1. 基础环境&lt;/div&gt;&amp;nbsp; &amp;nbsp; 1.1 集群管理&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.2 数据库管理&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.3 Nginx服务管理&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;监控中心&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;告警中心&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="H0pLZdyPVKQFM28tcbeX-101">
+          <mxGeometry x="240" width="140" height="110" as="geometry">
+            <mxRectangle width="140" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-126" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calendar;" vertex="1" parent="1">
@@ -224,7 +224,7 @@
           <mxGeometry x="410" y="610" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-150" value="1. 应用管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="410" y="720" width="120" height="80" as="geometry" />
+          <mxGeometry x="410" y="720" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-151" value="2025-Q3-Q4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="130" height="60" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="530" y="610" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-154" value="1. 配置中心" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="530" y="720" width="130" height="80" as="geometry" />
+          <mxGeometry x="530" y="720" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-155" value="2026-Q2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="500" width="130" height="60" as="geometry" />
@@ -244,11 +244,11 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-156" value="v2.0.0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-157" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1. 收集业务系统关键指标，实现业务系统指标监控与告警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-157" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1. 不断迭代优化产品设计与架构设计&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2. 增加其他的业务监控指标&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="610" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-158" value="1. 监控中心&lt;div&gt;2. 告警中心&lt;/div&gt;&lt;div&gt;3. DashBoard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="660" y="720" width="130" height="80" as="geometry" />
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-158" value="1. 监控中心(优化)&lt;div&gt;2. 告警中心(优化)&lt;/div&gt;&lt;div&gt;3. DashBoard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="720" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-160" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="3081" width="1760" height="1250" as="geometry" />
@@ -805,7 +805,7 @@
           <mxGeometry x="220" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-309" value="产品架构 v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="945" y="848" width="110" height="30" as="geometry" />
+          <mxGeometry x="955" y="875" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H0pLZdyPVKQFM28tcbeX-315" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="925.02" width="880" height="504.98" as="geometry" />
