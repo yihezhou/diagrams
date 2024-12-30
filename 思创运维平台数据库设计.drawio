@@ -459,7 +459,7 @@
         <mxCell id="84Ws_TcK_d0skPqPN5DL-242" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-178">
           <mxGeometry y="360" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ws_TcK_d0skPqPN5DL-243" value="host_role&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;choice" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-178">
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-243" value="host_role&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;choice" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-178">
           <mxGeometry x="30" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-203" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="84Ws_TcK_d0skPqPN5DL-201">
