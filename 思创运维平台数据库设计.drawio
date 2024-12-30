@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="FtkYD6TFWRpVF152h-k8">
-    <mxGraphModel dx="1798" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,7 +598,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-248" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1440" width="280" height="270" as="geometry" />
+          <mxGeometry x="40" y="1440" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-249" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry width="280" height="30" as="geometry" />
@@ -624,7 +624,7 @@
         <mxCell id="84Ws_TcK_d0skPqPN5DL-256" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ws_TcK_d0skPqPN5DL-257" value="status&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;choice(uninstalled,installed)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-257" value="installed&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;bool" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="120" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-258" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
@@ -650,6 +650,12 @@
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-282" value="previous_version&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char(20)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="240" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+          <mxGeometry y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-284" value="backup_path&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char(255)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+          <mxGeometry x="30" y="270" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-264" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1440" width="270" height="210" as="geometry" />
