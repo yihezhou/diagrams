@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="1325" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,6 +329,24 @@
         </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-128" value="******" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1935" y="481" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-300" width="430" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-132" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;登录页&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-133" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;登录CrealifeOps运维平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-280" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-134" value="请输入账户" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-220" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-135" value="请输入密码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-170" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-136" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
