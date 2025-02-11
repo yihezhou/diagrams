@@ -279,6 +279,9 @@
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-102" value="个人中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="915" y="150" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7z-OZGvAiQnBAwZXuj_-103" target="P7z-OZGvAiQnBAwZXuj_-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-103" value="退出登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="915" y="170" width="70" height="30" as="geometry" />
         </mxCell>
