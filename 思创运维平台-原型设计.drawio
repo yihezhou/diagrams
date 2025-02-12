@@ -445,17 +445,11 @@
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-173" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;编辑用户&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1254" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P7z-OZGvAiQnBAwZXuj_-174" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;* 用户名称：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-174" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; *用户名称：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1730" y="1314" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-175" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1835" y="1312.5" width="120" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="P7z-OZGvAiQnBAwZXuj_-176" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;备注信息：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1401" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P7z-OZGvAiQnBAwZXuj_-177" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1835" y="1401" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-187" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="1170" width="50" height="30" as="geometry" />
