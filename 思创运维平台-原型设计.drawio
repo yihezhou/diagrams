@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="938" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,11 +508,55 @@
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-203" value="2025-02-10 10:30:50" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1925" y="1053.25" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7z-OZGvAiQnBAwZXuj_-204" target="P7z-OZGvAiQnBAwZXuj_-207">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2225" y="1508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-204" value="禁用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="1005" width="50" height="30" as="geometry" />
+          <mxGeometry x="2200" y="1005" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7z-OZGvAiQnBAwZXuj_-205" target="P7z-OZGvAiQnBAwZXuj_-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2165" y="1745" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-205" value="重置密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="1005" width="70" height="30" as="geometry" />
+          <mxGeometry x="2130" y="1005" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-207" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2395" y="1443" width="335" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-208" value="操作确认&lt;div&gt;确定要禁用用户【管理员】？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="1481" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-209" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1533" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-210" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1533" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2395" y="1640" width="335" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-213" value="重置用户登录密码" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="1683" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-214" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1800" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-215" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1800" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-216" value="******" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="1750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-217" value="*重置后的新密码" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2465" y="1720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
