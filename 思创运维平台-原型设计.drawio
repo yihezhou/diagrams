@@ -472,7 +472,7 @@
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-191" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2395" y="1280" width="335" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="P7z-OZGvAiQnBAwZXuj_-192" value="删除确认&lt;div&gt;确定要删除角色【管理员】？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="P7z-OZGvAiQnBAwZXuj_-192" value="删除确认&lt;div&gt;确定要删除用户【admin】？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2465" y="1318" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P7z-OZGvAiQnBAwZXuj_-193" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
