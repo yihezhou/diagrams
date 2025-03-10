@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="1530" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,77 +612,131 @@
         <mxCell id="aKVOpKC-UqoKAMtC19uA-22" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; text-align: left; background-color: rgba(250, 250, 250, 0.482);&quot;&gt;&lt;font&gt;用户名或密码错误&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1000" y="2031.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-1" value="系统设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-1" value="系统设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="100" y="2350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="2410" width="990" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-3" value="秘钥设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-3" value="秘钥设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="300" y="2470" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-4" value="系统信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-4" value="系统信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="2530" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-5" value="告警服务设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-5" value="告警服务设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="2500" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-6" value="秘钥设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-6" value="秘钥设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="445" y="2470" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-7" value="公钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-7" value="公钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="2530" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-8" value="ssh-rsa&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;AAAAB3NzaC1yc2EAAAADAQABAAABAQDAhoDDhuPTvNo6NT8t4Y/pQLrHn/3iHtHVBx9jRtMNu3bG0hqpAl4IWnM2&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 250, 248), rgb(23, 22, 20)); color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;x2P&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 250, 248), rgb(23, 22, 20)); color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;E&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;HRzd&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;TRAURERwR9dpHOTC1h+YHNTHfiMDfLLupFsvGNDButBd1mLz4zzlqqqQ4fv8FOmRVIbAR4pUCLJ9cSA6n5KLcW&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;UFY/L/bD&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;shiXF&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;08/CBka/D8AR9ORdZvIseGQmJJJx/N8PEfdp1E0vYl4O9I37LYIn0dTxwRMWohQScz/GTRKzsNkSU+&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;Z26jKxDpWLHeccO&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;1n6yOq&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;5uRWcShy6nKkBmx8lnMQQbubR09oQauECCQBB8JLFdFkRZlmS8lO70Rm8TTFxY1ZLPTosV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;GIiVsPlH&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-8" value="ssh-rsa&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;AAAAB3NzaC1yc2EAAAADAQABAAABAQDAhoDDhuPTvNo6NT8t4Y/pQLrHn/3iHtHVBx9jRtMNu3bG0hqpAl4IWnM2&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 250, 248), rgb(23, 22, 20)); color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;x2P&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 250, 248), rgb(23, 22, 20)); color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;E&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;HRzd&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;TRAURERwR9dpHOTC1h+YHNTHfiMDfLLupFsvGNDButBd1mLz4zzlqqqQ4fv8FOmRVIbAR4pUCLJ9cSA6n5KLcW&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;UFY/L/bD&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;shiXF&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;08/CBka/D8AR9ORdZvIseGQmJJJx/N8PEfdp1E0vYl4O9I37LYIn0dTxwRMWohQScz/GTRKzsNkSU+&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;Z26jKxDpWLHeccO&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;1n6yOq&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;5uRWcShy6nKkBmx8lnMQQbubR09oQauECCQBB8JLFdFkRZlmS8lO70Rm8TTFxY1ZLPTosV&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 250, 248); color: rgb(51, 51, 51);&quot;&gt;GIiVsPlH&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="460" y="2570" width="660" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-9" value="一般位于~/.ssh/id_rsa.pub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-9" value="一般位于~/.ssh/id_rsa.pub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="2700" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-11" value="私钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-11" value="私钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="2750" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-12" value="-----BEGIN RSA PRIVATE KEY-----&lt;div&gt;MIIEowIBAAKCAQEAwIaAw4bj07zaOjU/LeGP6UC6x5/94h7R1QcfY0bTDbt2xtIa&lt;div&gt;qQJeCFpzNsdjxB0c3U0QFEREcEfXaRzkwtYfmBzUx34jA3yy7qRbLxjQwbrQXdZi&lt;/div&gt;&lt;div&gt;8+M85aqqkOH7/BTpkVSGwEeKVAiyfXEgOp+Si3FlBWPy/2w7IYlxdPPwgZGvw/AE&lt;/div&gt;&lt;div&gt;fTkXWbyLHhkJiSScfzfDxH3adRNL2JeDvSN+y2CJ9HU8cETFqIUEnM/xk0Ss7DZE&lt;/div&gt;&lt;div&gt;lPmduoysQ6Vix3nHDtZ+sjqubkVnEocupypAZsfJZzEEG7m0dPaEGrhAgkAQfCSx&lt;/div&gt;&lt;div&gt;XRZEWZZkvJTu9EZvE0xcWNWSz06LFRiIlbD5RwIDAQABAoIBAFPi5z0Ky78pBN8i&lt;/div&gt;&lt;div&gt;70XjB+0GvruXayx46E3NXjBIHlLX8U99IY+tj+JM4vGl3EMJuld0qgJion1X2DSd&lt;/div&gt;&lt;div&gt;GdIJMVf6i/3maIQu89oGdBKn2eHnr72LWa9RvmmFvO8HAGAcjo67yUEDivLFnVwK&lt;/div&gt;&lt;div&gt;DBRvDg/DF1TLcYg4lOUueWiPl6YkXjXz11zcihBibJJaJMweYtXuraPmHHEIA74h&lt;/div&gt;&lt;div&gt;TZDP+zkFn/P8/SAeIbfvnxq9H2BJFa919rW2qcpQ9emyF4wm2IcLEm4eOULJnscF&lt;/div&gt;&lt;div&gt;RieO2cBwOQutACtDeubD2C7R5APQhLRC6NGO8t46K/CcRTxLMnJiWDYUnhrQ5NkL&lt;/div&gt;&lt;div&gt;cTaE/6kCgYEA6kc801zBvHFf0a6vkibMI9Js9GAmoY8Mkd14r/nkYy8gco7Soa3t&lt;/div&gt;&lt;div&gt;amPWryLJMAwLb4j738Q63LqcMT8pZ1iWlar57XikISBLSJLauhFIoZXE/NMD8p87&lt;/div&gt;&lt;div&gt;bu/GKETR9UuBCewRMAAZ02vU2vABXlOFX0iUVrPvH5s9DAyaatr0Y+8CgYEA0mA7&lt;/div&gt;&lt;div&gt;LLWxqN4zUwshzspg1g0xVnHJNGWW8ab7xttFtK2/Nfd12ak9zaJYIEi69dpuvRpB&lt;/div&gt;&lt;div&gt;k+Xiv5MTPYHcGSQWxqLJOJc+efeNEFd7rN+sFCE8BLSA398jZXlLbK3mzmkH02NZ&lt;/div&gt;&lt;div&gt;SuojOXA0kRE0wcqadfKB4tRJRiVaMSHjTBnqiCkCgYArzSfdKKF8NwJANNXUkHZo&lt;/div&gt;&lt;div&gt;WCZQxk1StWkXOH4hAKqntJ7vbC6LVfZmhsYTtoBBAG9+6fCVlJ2guS8Msg9uqAx3&lt;/div&gt;&lt;div&gt;bSEPOhgNrXkF15cXZLXcqCDNWDKLwSOeiSvWSY+rufMlRMKt48bwVV/VkzveQ+VS&lt;/div&gt;&lt;div&gt;vEInt7qEgUS3pP+V7Nv2dwKBgQDDC3cxf48kikY5cvO4PofDTN32UG6EBsAIcZGz&lt;/div&gt;&lt;div&gt;D260EfZaeYCo+bEUKrTb0bKM6CSNbH9qONOeXCSVfQVrxbrcFObMceT5vZrqkMFY&lt;/div&gt;&lt;div&gt;SNPIoft8PUHSzZWKqgdUznJT4qrfwJdzzlo0EaSa7sHj/gxw2BK2E62PvGe/b7TF&lt;/div&gt;&lt;div&gt;xK1d6QKBgCxXBBySJkajO474AUsduCiJ43iTT5rOz5czuVdM6AcvNyCo1ZiZf8v4&lt;/div&gt;&lt;div&gt;OEnlLwc/xP8Edevwn/oEBGJWMufvjfVrdFwtqdxjZxyojm74Dzh1H3zsfFXjC4V0&lt;/div&gt;&lt;div&gt;ajbsUguB25++zhdZLkrK73fgv7VNw2nqz3b52vFQIX+ZJgAPKWxO&lt;/div&gt;&lt;div&gt;-----END RSA PRIVATE KEY-----&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-12" value="-----BEGIN RSA PRIVATE KEY-----&lt;div&gt;MIIEowIBAAKCAQEAwIaAw4bj07zaOjU/LeGP6UC6x5/94h7R1QcfY0bTDbt2xtIa&lt;div&gt;qQJeCFpzNsdjxB0c3U0QFEREcEfXaRzkwtYfmBzUx34jA3yy7qRbLxjQwbrQXdZi&lt;/div&gt;&lt;div&gt;8+M85aqqkOH7/BTpkVSGwEeKVAiyfXEgOp+Si3FlBWPy/2w7IYlxdPPwgZGvw/AE&lt;/div&gt;&lt;div&gt;fTkXWbyLHhkJiSScfzfDxH3adRNL2JeDvSN+y2CJ9HU8cETFqIUEnM/xk0Ss7DZE&lt;/div&gt;&lt;div&gt;lPmduoysQ6Vix3nHDtZ+sjqubkVnEocupypAZsfJZzEEG7m0dPaEGrhAgkAQfCSx&lt;/div&gt;&lt;div&gt;XRZEWZZkvJTu9EZvE0xcWNWSz06LFRiIlbD5RwIDAQABAoIBAFPi5z0Ky78pBN8i&lt;/div&gt;&lt;div&gt;70XjB+0GvruXayx46E3NXjBIHlLX8U99IY+tj+JM4vGl3EMJuld0qgJion1X2DSd&lt;/div&gt;&lt;div&gt;GdIJMVf6i/3maIQu89oGdBKn2eHnr72LWa9RvmmFvO8HAGAcjo67yUEDivLFnVwK&lt;/div&gt;&lt;div&gt;DBRvDg/DF1TLcYg4lOUueWiPl6YkXjXz11zcihBibJJaJMweYtXuraPmHHEIA74h&lt;/div&gt;&lt;div&gt;TZDP+zkFn/P8/SAeIbfvnxq9H2BJFa919rW2qcpQ9emyF4wm2IcLEm4eOULJnscF&lt;/div&gt;&lt;div&gt;RieO2cBwOQutACtDeubD2C7R5APQhLRC6NGO8t46K/CcRTxLMnJiWDYUnhrQ5NkL&lt;/div&gt;&lt;div&gt;cTaE/6kCgYEA6kc801zBvHFf0a6vkibMI9Js9GAmoY8Mkd14r/nkYy8gco7Soa3t&lt;/div&gt;&lt;div&gt;amPWryLJMAwLb4j738Q63LqcMT8pZ1iWlar57XikISBLSJLauhFIoZXE/NMD8p87&lt;/div&gt;&lt;div&gt;bu/GKETR9UuBCewRMAAZ02vU2vABXlOFX0iUVrPvH5s9DAyaatr0Y+8CgYEA0mA7&lt;/div&gt;&lt;div&gt;LLWxqN4zUwshzspg1g0xVnHJNGWW8ab7xttFtK2/Nfd12ak9zaJYIEi69dpuvRpB&lt;/div&gt;&lt;div&gt;k+Xiv5MTPYHcGSQWxqLJOJc+efeNEFd7rN+sFCE8BLSA398jZXlLbK3mzmkH02NZ&lt;/div&gt;&lt;div&gt;SuojOXA0kRE0wcqadfKB4tRJRiVaMSHjTBnqiCkCgYArzSfdKKF8NwJANNXUkHZo&lt;/div&gt;&lt;div&gt;WCZQxk1StWkXOH4hAKqntJ7vbC6LVfZmhsYTtoBBAG9+6fCVlJ2guS8Msg9uqAx3&lt;/div&gt;&lt;div&gt;bSEPOhgNrXkF15cXZLXcqCDNWDKLwSOeiSvWSY+rufMlRMKt48bwVV/VkzveQ+VS&lt;/div&gt;&lt;div&gt;vEInt7qEgUS3pP+V7Nv2dwKBgQDDC3cxf48kikY5cvO4PofDTN32UG6EBsAIcZGz&lt;/div&gt;&lt;div&gt;D260EfZaeYCo+bEUKrTb0bKM6CSNbH9qONOeXCSVfQVrxbrcFObMceT5vZrqkMFY&lt;/div&gt;&lt;div&gt;SNPIoft8PUHSzZWKqgdUznJT4qrfwJdzzlo0EaSa7sHj/gxw2BK2E62PvGe/b7TF&lt;/div&gt;&lt;div&gt;xK1d6QKBgCxXBBySJkajO474AUsduCiJ43iTT5rOz5czuVdM6AcvNyCo1ZiZf8v4&lt;/div&gt;&lt;div&gt;OEnlLwc/xP8Edevwn/oEBGJWMufvjfVrdFwtqdxjZxyojm74Dzh1H3zsfFXjC4V0&lt;/div&gt;&lt;div&gt;ajbsUguB25++zhdZLkrK73fgv7VNw2nqz3b52vFQIX+ZJgAPKWxO&lt;/div&gt;&lt;div&gt;-----END RSA PRIVATE KEY-----&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="460" y="2790" width="660" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-13" value="一般位于~/.ssh/id_rsa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-13" value="一般位于~/.ssh/id_rsa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="3200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="2420" width="990" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-15" value="秘钥设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-15" value="秘钥设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1940" y="2480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-16" value="系统信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-16" value="系统信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1940" y="2540" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-17" value="告警服务设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-17" value="告警服务设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1940" y="2510" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-18" value="系统信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-18" value="系统信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2085" y="2480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-25" value="&lt;div style=&quot;line-height: 250%;&quot;&gt;操作系统：Linux-6.6.0-64.0.0.61.oe2403.x86_64&lt;div&gt;Python版本：3.11.6&lt;/div&gt;&lt;div&gt;CrealifeOps API版本：v1.0.0&lt;/div&gt;&lt;div&gt;CrealifeOps Web版本：v1.0.0&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingBottom=0;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-25" value="&lt;div style=&quot;line-height: 250%;&quot;&gt;操作系统：Linux-6.6.0-64.0.0.61.oe2403.x86_64&lt;div&gt;Python版本：3.11.6&lt;/div&gt;&lt;div&gt;CrealifeOps API版本：v1.0.0&lt;/div&gt;&lt;div&gt;CrealifeOps Web版本：v1.0.0&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="2100" y="2515" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f61AeAYzi-Ya0LeMtudY-27" target="f61AeAYzi-Ya0LeMtudY-29">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f61AeAYzi-Ya0LeMtudY-27" target="f61AeAYzi-Ya0LeMtudY-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-27" value="保存设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-27" value="保存设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1010" y="3260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-29" value="&lt;span style=&quot;color: rgb(245, 34, 45); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;请谨慎修改密钥对，修改密钥对可能会让现有的主机都无法进行验证，影响与主机相关的各项功能！&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-29" value="&lt;span style=&quot;color: rgb(245, 34, 45); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;请谨慎修改密钥对，修改密钥对可能会让现有的主机都无法进行验证，影响与主机相关的各项功能！&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1325" y="3050" width="445" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;秘钥修改确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;秘钥修改确认&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3070" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-32" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-32" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="3270" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f61AeAYzi-Ya0LeMtudY-33" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="f61AeAYzi-Ya0LeMtudY-33" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1660" y="3270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-1" value="主机管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="3480" width="990" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-3" value="主机管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5eToLaNUedCDXFFqwRXk-4" target="5eToLaNUedCDXFFqwRXk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-4" value="新建主机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="930" y="3560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="3480" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;新建主机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="3500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;主机名称：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="3560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-9" value="test01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="3560" width="385" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;连接地址：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="3620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-11" value="ssh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="3620" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-12" value="用户名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="3620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-13" value="@" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="3620" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-14" value="主机IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="3620" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-15" value="-p" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="3620" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-16" value="端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="3620" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;备注信息：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="3692" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eToLaNUedCDXFFqwRXk-18" value="输入主机备注信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="3700" width="385" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
