@@ -669,7 +669,7 @@
         <mxCell id="TKtxZuea-SsVqlYo6sum-4" value="host_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Host" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="359" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TKtxZuea-SsVqlYo6sum-2" value="deploy_mechanism&amp;nbsp; &amp;nbsp; choice(cluster,single_node)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+        <mxCell id="TKtxZuea-SsVqlYo6sum-2" value="deploy_mode&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; choice(global,single_node)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="299" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TKtxZuea-SsVqlYo6sum-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
