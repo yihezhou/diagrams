@@ -799,31 +799,31 @@
           <mxGeometry x="255" y="4765" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-47" value="主机名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="4795" width="85" height="30" as="geometry" />
+          <mxGeometry x="285" y="4815" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-48" value="test01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4795" width="160" height="30" as="geometry" />
+          <mxGeometry x="370" y="4815" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-49" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;扩展信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="4955" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-52" value="连接地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="4825" width="85" height="30" as="geometry" />
+          <mxGeometry x="285" y="4845" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-53" value="root@10.10.11.62" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4825" width="160" height="30" as="geometry" />
+          <mxGeometry x="370" y="4845" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-54" value="连接端口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="4855" width="85" height="30" as="geometry" />
+          <mxGeometry x="285" y="4875" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-55" value="22" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4855" width="160" height="30" as="geometry" />
+          <mxGeometry x="370" y="4875" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-56" value="描述信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="4885" width="85" height="30" as="geometry" />
+          <mxGeometry x="285" y="4905" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-57" value="这是test01主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4885" width="160" height="30" as="geometry" />
+          <mxGeometry x="370" y="4905" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-58" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="5055" width="85" height="30" as="geometry" />
@@ -1267,12 +1267,6 @@
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-228" value="Cluster01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="4995" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5eToLaNUedCDXFFqwRXk-229" value="主机角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="4915" width="85" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5eToLaNUedCDXFFqwRXk-230" value="manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="4915" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
