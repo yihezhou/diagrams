@@ -612,7 +612,7 @@
         <mxCell id="84Ws_TcK_d0skPqPN5DL-252" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
           <mxGeometry y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ws_TcK_d0skPqPN5DL-253" value="name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char(50)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-253" value="name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; char(50)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
           <mxGeometry x="30" y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
@@ -624,7 +624,7 @@
         <mxCell id="84Ws_TcK_d0skPqPN5DL-256" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
           <mxGeometry y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ws_TcK_d0skPqPN5DL-257" value="installed&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;bool" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-257" value="installed&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; bool" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
           <mxGeometry x="30" y="120" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-258" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="84Ws_TcK_d0skPqPN5DL-248" vertex="1">
@@ -666,10 +666,10 @@
         <mxCell id="TKtxZuea-SsVqlYo6sum-3" value="FK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry y="359" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TKtxZuea-SsVqlYo6sum-4" value="host_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Host" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+        <mxCell id="TKtxZuea-SsVqlYo6sum-4" value="host_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Host" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="359" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TKtxZuea-SsVqlYo6sum-2" value="deploy_mode&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; choice(global,single_node)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
+        <mxCell id="TKtxZuea-SsVqlYo6sum-2" value="deploy_mode&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;choice(global,single_node)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
           <mxGeometry x="30" y="299" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TKtxZuea-SsVqlYo6sum-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="84Ws_TcK_d0skPqPN5DL-248">
