@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="1243" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1481,9 +1481,6 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-71" value="部署模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="438.75" y="7045" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-72" value="副本数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="535" y="7045" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-73" value="镜像名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="620" y="7045" width="70" height="30" as="geometry" />
         </mxCell>
@@ -1493,11 +1490,8 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-75" value="global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="7080" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-76" value="3/3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="7080" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-77" value="10.10.12.60:9999/crealife/systemsetup:latest" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="7080" width="267.5" height="30" as="geometry" />
+          <mxGeometry x="532.5" y="7080" width="267.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-78" value="crealife_smartor" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="7110" width="120" height="30" as="geometry" />
@@ -1505,11 +1499,8 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-79" value="global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="7110" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-80" value="3/3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="7110" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-81" value="10.10.12.60:9999/crealife/smartor:latest" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="7110" width="267.5" height="30" as="geometry" />
+          <mxGeometry x="532.5" y="7110" width="267.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-82" value="crealife_cvis" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="7140" width="120" height="30" as="geometry" />
@@ -1517,11 +1508,8 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-83" value="global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="7140" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-84" value="3/3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="7140" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-85" value="10.10.12.60:9999/crealife/cvis:latest" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="7140" width="267.5" height="30" as="geometry" />
+          <mxGeometry x="532.5" y="7140" width="267.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-88" target="lBwW1mapVIc5IlXxpcrd-89">
           <mxGeometry relative="1" as="geometry" />
@@ -1627,6 +1615,9 @@
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-127" value="这是App-Cluster1应用集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1862.5" y="6210" width="222.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-128" target="lBwW1mapVIc5IlXxpcrd-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-128" value="服务管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="585" y="6350" width="80" height="30" as="geometry" />
