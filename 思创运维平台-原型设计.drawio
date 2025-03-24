@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="1476" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1689,13 +1689,76 @@
           <mxGeometry x="1465" y="6646" width="77.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="6590" width="505" height="640" as="geometry" />
+          <mxGeometry x="1685" y="6590" width="505" height="650" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-167" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;添加集群服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1720" y="6616" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-168" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;服务堆栈：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1750" y="6680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-170" value="crealife" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1837.5" y="6680" width="302.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-171" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;服务名称：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="6740" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-172" value="datatransfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1837.5" y="6740" width="302.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-173" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;镜像名称：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="6800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-174" value="10.10.12.60:9999/crealife/datatransfer:latest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1837.5" y="6800" width="302.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-175" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;端口映射：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="6860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-176" target="lBwW1mapVIc5IlXxpcrd-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-176" value="10030" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="6930" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-177" target="lBwW1mapVIc5IlXxpcrd-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-177" value="10030" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2057.5" y="6930" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-178" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;主机端口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="6890" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-179" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;容器端口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2055" y="6890" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-182" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="6855" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-183" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;部署模式：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1747.5" y="7015" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-184" value="global" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="7015" width="302.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-185" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;部署约束：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="7080" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-186" value="node.name==test02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1832.5" y="7080" width="307.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-187" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;服务描述：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="7150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-188" value="The datatransfer backend service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1832.5" y="7150" width="307.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-189" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="7200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-190" value="确定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="7200" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
