@@ -1634,9 +1634,6 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-150" value="部署模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1171.25" y="6730" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-151" value="副本数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1267.5" y="6730" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-152" value="镜像名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1352.5" y="6730" width="70" height="30" as="geometry" />
         </mxCell>
