@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="第 1 页" id="FtkYD6TFWRpVF152h-k8">
-    <mxGraphModel dx="1842" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1322" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
         <mxCell id="84Ws_TcK_d0skPqPN5DL-220" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="84Ws_TcK_d0skPqPN5DL-204" vertex="1">
           <mxGeometry y="300" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ws_TcK_d0skPqPN5DL-221" value="networks&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char(255)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-204" vertex="1">
+        <mxCell id="84Ws_TcK_d0skPqPN5DL-221" value="network&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;char(255)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-204" vertex="1">
           <mxGeometry x="30" y="300" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ws_TcK_d0skPqPN5DL-223" value="created_at&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;datetime" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="84Ws_TcK_d0skPqPN5DL-204" vertex="1">
