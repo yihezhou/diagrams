@@ -900,14 +900,13 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-31" value="node_exporter" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="307" y="1410" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#CCCC00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H0pLZdyPVKQFM28tcbeX-279" target="MwUPUy6RkMqgH-ERM9w2-28" edge="1">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#CCCC00;" parent="1" source="H0pLZdyPVKQFM28tcbeX-279" target="MwUPUy6RkMqgH-ERM9w2-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="311" y="1285" />
               <mxPoint x="310" y="1285" />
               <mxPoint x="310" y="1350" />
               <mxPoint x="270" y="1350" />
-              <mxPoint x="270" y="1410" />
             </Array>
             <mxPoint x="269" y="1383" as="targetPoint" />
           </mxGeometry>
