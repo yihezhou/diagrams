@@ -867,7 +867,7 @@
         <mxCell id="5eToLaNUedCDXFFqwRXk-71" value="&lt;div&gt;sdb&lt;/div&gt;10TB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="430" y="5210" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5eToLaNUedCDXFFqwRXk-73" value="网卡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5eToLaNUedCDXFFqwRXk-73" value="网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="5267.5" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5eToLaNUedCDXFFqwRXk-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
