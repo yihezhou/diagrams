@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="1672" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1105,8 +1105,19 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-84" value="CrealifeOps使用主流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1135" y="-90" width="141" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="4H1H64KwxRHPCcqwLsAS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTAup8S2RlnTRO1Y8JwV-1" target="4H1H64KwxRHPCcqwLsAS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4H1H64KwxRHPCcqwLsAS-3" value="install.sh" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4H1H64KwxRHPCcqwLsAS-2">
+          <mxGeometry x="-0.0396" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TTAup8S2RlnTRO1Y8JwV-1" value="&lt;div&gt;&lt;span style=&quot;font-family: PingFangSC-Light; font-size: 14px;&quot;&gt;&lt;font&gt;CrealifeOps-Master-v1.0.0-openEuler2403-LTS-x86_64.tar.gz&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;/CrealifeOps-Master/deploy&lt;div&gt;|----Packages&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----01-NodeExporter.tar.gz&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----03-Docker.tar.gz&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----06-Nginx&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----09-Prometheus&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----12-PipPackages&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----15-Backend.tar.gz&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----18-Frontend.tar.gz&lt;/div&gt;&lt;div&gt;|----crealife_ctl&lt;/div&gt;&lt;div&gt;|----install.sh&lt;/div&gt;&lt;div&gt;|----install.log&lt;/div&gt;&lt;div&gt;|----uninstall.sh&lt;/div&gt;&lt;div&gt;|----requirements.txt&lt;/div&gt;&lt;div&gt;|----services&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----node-exporter.service&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----gunicorn.service&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----prometheus.service&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----docker.service&lt;/div&gt;&lt;div&gt;|----configs&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----prometheus.yml&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----env.prod&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----nginx.conf&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; |----_app.config.js&lt;/div&gt;&lt;div&gt;|----release&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;|----README.md&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=left;" parent="1" vertex="1">
           <mxGeometry x="901.24" y="920" width="414.76" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="4H1H64KwxRHPCcqwLsAS-1" value="&lt;div&gt;Please Input Install Params:&lt;/div&gt;&lt;div&gt;xxx:&lt;/div&gt;&lt;div&gt;xxx:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Install Node Exporter&lt;div&gt;Install Nginx With Port XX&lt;/div&gt;&lt;div&gt;Install Prometheus Server&lt;/div&gt;&lt;div&gt;Check Python3 Exist&lt;/div&gt;&lt;div&gt;Install Pip Packages&lt;/div&gt;&lt;div&gt;Install CrealifeOps Api Server&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;install WSGI Server&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;install BackendCode&lt;/div&gt;&lt;div&gt;Install CrealifeOps Web&lt;/div&gt;&lt;div&gt;Install Release File&amp;nbsp;&lt;/div&gt;&lt;div&gt;Install CrealifeOps Success&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;install-0501-1030.log&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="920" width="314" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
