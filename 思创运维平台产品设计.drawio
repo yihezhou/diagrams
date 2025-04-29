@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="1906" dy="1502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="2000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,7 +847,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-46" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="2485" width="148" height="120" as="geometry" />
+          <mxGeometry x="-272" y="2509" width="148" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Project Manager Workspace&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-46">
           <mxGeometry x="-11" y="90" width="170" height="30" as="geometry" />
@@ -870,17 +870,17 @@
         <mxCell id="2uEnCLTzuKftnubdqHdh-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
           <mxGeometry x="40" y="10" width="160" height="51.47" as="geometry" />
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-56" value="branch release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
+        <mxCell id="2uEnCLTzuKftnubdqHdh-56" value="x86_64 branch release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
           <mxGeometry y="78" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#6600cc&quot;&gt;Branch: develop&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Submodule Update&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Backend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Frontend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Release with Branch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Package md5&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package with Branch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Branch Release to NAS&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Send Release Email&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
-          <mxGeometry y="104" width="199" height="294" as="geometry" />
+        <mxCell id="2uEnCLTzuKftnubdqHdh-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#6600cc&quot;&gt;Branch: x86_64&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Submodule Update&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Backend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Frontend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Release with Branch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package x86_64 with Branch&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Package md5 with Branch&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Branch Release to NAS&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Send Release Email&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
+          <mxGeometry y="104" width="200" height="294" as="geometry" />
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-58" value="tag release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
+        <mxCell id="2uEnCLTzuKftnubdqHdh-58" value="x86_64 tag release pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
           <mxGeometry y="390" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-98" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Tag: *&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Submodule Update&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Backend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Frontend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Release with Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Package md5&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package with Tag&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Tag Release to NAS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Send Release Email&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
-          <mxGeometry x="3" y="420" width="174" height="294" as="geometry" />
+        <mxCell id="2uEnCLTzuKftnubdqHdh-98" value="&lt;b&gt;&lt;font color=&quot;#6600cc&quot;&gt;Tag: v*&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Pull SCM&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Submodule Update&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Backend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package Frontend&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Release with Tag&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Package x86_64 with Tag&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Make Package md5 with Tag&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Upload Tag Release to NAS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;b&gt;Send Release Email&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=0;" vertex="1" parent="2uEnCLTzuKftnubdqHdh-54">
+          <mxGeometry y="420" width="179" height="294" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-83" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="623.5699999999999" y="2245" width="163.65" height="100" as="geometry" />
@@ -891,23 +891,23 @@
         <mxCell id="2uEnCLTzuKftnubdqHdh-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CCCC;" edge="1" parent="1" source="2uEnCLTzuKftnubdqHdh-11" target="2uEnCLTzuKftnubdqHdh-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-95" value="trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2uEnCLTzuKftnubdqHdh-94">
+        <mxCell id="2uEnCLTzuKftnubdqHdh-95" value="auto trigger on x86_64 agent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2uEnCLTzuKftnubdqHdh-94">
           <mxGeometry x="0.8044" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-35" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;" edge="1" parent="1" source="2uEnCLTzuKftnubdqHdh-20" target="2uEnCLTzuKftnubdqHdh-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1" y="2080" />
-              <mxPoint x="1" y="2321" />
+              <mxPoint x="-30" y="2080" />
+              <mxPoint x="-30" y="2321" />
               <mxPoint x="125" y="2321" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2uEnCLTzuKftnubdqHdh-97" value="manual trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2uEnCLTzuKftnubdqHdh-96">
+        <mxCell id="2uEnCLTzuKftnubdqHdh-97" value="manual trigger on x86_64 agent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2uEnCLTzuKftnubdqHdh-96">
           <mxGeometry x="0.8206" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-38" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" edge="1" parent="1" source="2uEnCLTzuKftnubdqHdh-54" target="2uEnCLTzuKftnubdqHdh-83">
