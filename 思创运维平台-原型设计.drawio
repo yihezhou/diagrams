@@ -1389,8 +1389,8 @@
         <mxCell id="lBwW1mapVIc5IlXxpcrd-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="5640" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="lBwW1mapVIc5IlXxpcrd-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;成员管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1401.25" y="5660" width="80" height="30" as="geometry" />
+        <mxCell id="lBwW1mapVIc5IlXxpcrd-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;App-Cluster2 成员管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1391.25" y="5660" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-94" value="test01" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1438.75" y="5780" width="85" height="30" as="geometry" />
