@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="2702" dy="3303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1470,7 +1470,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-120" value="编辑集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#007FFF;" parent="1" vertex="1">
-          <mxGeometry x="580" y="6360" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="6370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1412.5" y="6730" width="445" height="350" as="geometry" />
@@ -1491,7 +1491,7 @@
           <mxGeometry x="1565" y="6920" width="222.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lBwW1mapVIc5IlXxpcrd-196" value="删除集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0080;" parent="1" vertex="1">
-          <mxGeometry x="340" y="6360" width="80" height="30" as="geometry" />
+          <mxGeometry x="585" y="6370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NHn7zFwYGDu8gmdd0BOk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHn7zFwYGDu8gmdd0BOk-1" target="NHn7zFwYGDu8gmdd0BOk-17">
           <mxGeometry relative="1" as="geometry">
