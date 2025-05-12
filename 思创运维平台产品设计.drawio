@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="2846" dy="1464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2748" dy="1425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,10 +286,10 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-250" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="20" y="1489" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yzqOeikUmSlwGY64S3m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0pLZdyPVKQFM28tcbeX-250" target="yzqOeikUmSlwGY64S3m3-1">
+        <mxCell id="yzqOeikUmSlwGY64S3m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="H0pLZdyPVKQFM28tcbeX-250" target="yzqOeikUmSlwGY64S3m3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yzqOeikUmSlwGY64S3m3-3" value="cli" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yzqOeikUmSlwGY64S3m3-2">
+        <mxCell id="yzqOeikUmSlwGY64S3m3-3" value="cli" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yzqOeikUmSlwGY64S3m3-2" vertex="1" connectable="0">
           <mxGeometry x="0.0689" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -646,7 +646,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" target="MwUPUy6RkMqgH-ERM9w2-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-43" value="用户上传业务系统安装包到Master" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-43" value="用户上传产品化完成的业务软件包到Master" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-723" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-44" value="解压到扫描区" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -959,7 +959,7 @@
             <mxPoint x="59" y="-135" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzqOeikUmSlwGY64S3m3-1" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;usage:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl &amp;lt;sub_command&amp;gt; &amp;lt;option&amp;gt; &amp;lt;args&amp;gt; [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_exporter -p 9100 [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl status_exporter&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl remove_exporter&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_docker [PACKAGE]&lt;div&gt;crealife_ctl status_docker&lt;/div&gt;&lt;div&gt;crealife_ctl remove_docker&lt;br&gt;&lt;div&gt;crealife_ctl deploy_nginx -p 80 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl remove_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_container -p 10100 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_container [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_service -p 10110 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_service [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_front -d /etc/nginx/wwwroot [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl backup_front -v 1.0.0 [ServiceName]&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;crealife_ctl remove_front [ServiceName]&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=left;" vertex="1" parent="1">
+        <mxCell id="yzqOeikUmSlwGY64S3m3-1" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;usage:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl &amp;lt;sub_command&amp;gt; &amp;lt;option&amp;gt; &amp;lt;args&amp;gt; [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_exporter -p 9100 [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl status_exporter&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl remove_exporter&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_docker [PACKAGE]&lt;div&gt;crealife_ctl status_docker&lt;/div&gt;&lt;div&gt;crealife_ctl remove_docker&lt;br&gt;&lt;div&gt;crealife_ctl deploy_nginx -p 80 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl remove_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_container -p 10100 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_container [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_service -p 10110 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl status_service [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_front -d /etc/nginx/wwwroot [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl backup_front -v 1.0.0 [ServiceName]&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;crealife_ctl remove_front [ServiceName]&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=left;" parent="1" vertex="1">
           <mxGeometry x="-392" y="1400" width="349" height="367" as="geometry" />
         </mxCell>
       </root>
