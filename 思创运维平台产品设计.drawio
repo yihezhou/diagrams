@@ -968,8 +968,8 @@
         <mxCell id="c_DQTFKBtuLMi1II6Nws-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="-1064" y="102" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c_DQTFKBtuLMi1II6Nws-2" value="产品化/测试工程师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1100.06" y="76" width="117" height="26" as="geometry" />
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-2" value="产品化工程师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1086.06" y="76" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c_DQTFKBtuLMi1II6Nws-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_DQTFKBtuLMi1II6Nws-3" target="MwUPUy6RkMqgH-ERM9w2-43">
           <mxGeometry relative="1" as="geometry" />
