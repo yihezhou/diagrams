@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="4624" dy="1693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5101" dy="1874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,20 +628,17 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-40" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-1148" y="-152" width="105" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-41" target="MwUPUy6RkMqgH-ERM9w2-42" edge="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-41" target="MwUPUy6RkMqgH-ERM9w2-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-41" target="MwUPUy6RkMqgH-ERM9w2-43" edge="1">
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-41" target="MwUPUy6RkMqgH-ERM9w2-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-41" value="&lt;span style=&quot;color: rgb(75, 75, 77); font-family: PingFangSC-Light; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;安装CrealifeOps到Master节点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="66" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-42" value="自动创建软件包&lt;div&gt;扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="66" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" target="MwUPUy6RkMqgH-ERM9w2-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-962" y="66" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" target="MwUPUy6RkMqgH-ERM9w2-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -649,8 +646,11 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-43" value="平台用户上传产品化完成的业务软件包到Master端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="175" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-44" value="解压到扫描区" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-962" y="175" width="120" height="60" as="geometry" />
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-44" target="MwUPUy6RkMqgH-ERM9w2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-44" value="软件包扫描区" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1377" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-45" target="MwUPUy6RkMqgH-ERM9w2-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1064,6 +1064,17 @@
           <mxGeometry x="-0.3729" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_DQTFKBtuLMi1II6Nws-49" target="MwUPUy6RkMqgH-ERM9w2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-51" value="解压放入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c_DQTFKBtuLMi1II6Nws-50">
+          <mxGeometry x="0.1926" y="1" relative="1" as="geometry">
+            <mxPoint x="20" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-49" value="产品化通过后的业务软件包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="64" width="90" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
