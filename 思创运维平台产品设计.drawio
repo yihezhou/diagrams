@@ -1133,8 +1133,8 @@
         <mxCell id="_dnIJMTnnhfiKRJBlZA0-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/9188/9188182.png;" vertex="1" parent="1">
           <mxGeometry x="-624.94" y="-275" width="56" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_dnIJMTnnhfiKRJBlZA0-2" value="项目管理者(Product Owner)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-674.94" y="-298" width="166" height="26" as="geometry" />
+        <mxCell id="_dnIJMTnnhfiKRJBlZA0-2" value="项目管理者(Project Manager/Product Owner)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-719.94" y="-298" width="257" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_dnIJMTnnhfiKRJBlZA0-3" value="产品设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-819.44" y="-181" width="70" height="29" as="geometry" />
