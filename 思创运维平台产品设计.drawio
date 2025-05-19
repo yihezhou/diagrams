@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="3751" dy="1553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3709" dy="1874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -756,7 +756,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-67" target="MwUPUy6RkMqgH-ERM9w2-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i1egfhpj4-X6gtWhYaBm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-67" target="i1egfhpj4-X6gtWhYaBm-2">
+        <mxCell id="i1egfhpj4-X6gtWhYaBm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-67" target="i1egfhpj4-X6gtWhYaBm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-67" value="选择已上传的&lt;div&gt;版本&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;进行更新&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -796,7 +796,7 @@
           <mxGeometry x="1440" y="920" width="314" height="420" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-387" y="1915" width="265" height="404" as="geometry" />
+          <mxGeometry x="893" y="2017" width="265" height="404" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://about.gitlab.com/images/press/logo/png/old-logo-no-bkgrd.png;" parent="2uEnCLTzuKftnubdqHdh-1" vertex="1">
           <mxGeometry x="39.14" y="10" width="135.86" height="60" as="geometry" />
@@ -837,13 +837,13 @@
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.003;exitY=0.191;exitDx=0;exitDy=0;entryX=1;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="2uEnCLTzuKftnubdqHdh-1" target="2uEnCLTzuKftnubdqHdh-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="38" y="2005" as="sourcePoint" />
-            <mxPoint x="88" y="1955" as="targetPoint" />
+            <mxPoint x="1318" y="2107" as="sourcePoint" />
+            <mxPoint x="1368" y="2057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.148;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;strokeColor=#00FFFF;" parent="1" source="2uEnCLTzuKftnubdqHdh-46" target="2uEnCLTzuKftnubdqHdh-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200.11999999999966" y="2335" as="targetPoint" />
+            <mxPoint x="1079.8800000000003" y="2437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-93" value="push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2uEnCLTzuKftnubdqHdh-42" vertex="1" connectable="0">
@@ -870,7 +870,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-46" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-272" y="2509" width="148" height="120" as="geometry" />
+          <mxGeometry x="1008" y="2611" width="148" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Project Manager Workspace&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2uEnCLTzuKftnubdqHdh-46" vertex="1">
           <mxGeometry x="-11" y="90" width="170" height="30" as="geometry" />
@@ -888,7 +888,7 @@
           <mxGeometry x="84" y="70" width="64" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-54" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="158" y="1915" width="250" height="714" as="geometry" />
+          <mxGeometry x="1438" y="2017" width="250" height="714" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png;" parent="2uEnCLTzuKftnubdqHdh-54" vertex="1">
           <mxGeometry x="40" y="10" width="160" height="51.47" as="geometry" />
@@ -906,7 +906,7 @@
           <mxGeometry y="420" width="179" height="294" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-83" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="623.5699999999999" y="2245" width="163.65" height="100" as="geometry" />
+          <mxGeometry x="1903.5700000000002" y="2347" width="163.65" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CrealifeOps Branch/Tag Release Pipelines&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-397" y="1837" width="301" height="30" as="geometry" />
@@ -922,9 +922,9 @@
         <mxCell id="2uEnCLTzuKftnubdqHdh-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;" parent="1" source="2uEnCLTzuKftnubdqHdh-20" target="2uEnCLTzuKftnubdqHdh-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-30" y="2080" />
-              <mxPoint x="-30" y="2321" />
-              <mxPoint x="125" y="2321" />
+              <mxPoint x="1250" y="2182" />
+              <mxPoint x="1250" y="2423" />
+              <mxPoint x="1405" y="2423" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -936,8 +936,8 @@
         <mxCell id="2uEnCLTzuKftnubdqHdh-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" parent="1" source="2uEnCLTzuKftnubdqHdh-54" target="2uEnCLTzuKftnubdqHdh-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="2269" />
-              <mxPoint x="510" y="2277" />
+              <mxPoint x="1790" y="2371" />
+              <mxPoint x="1790" y="2379" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -947,15 +947,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ssd-disclosure.com/wp-content/uploads/2024/10/synology-logo-8BC7CC8CDB-seeklogo.com_.png;" parent="1" vertex="1">
-          <mxGeometry x="636.35" y="2287" width="143.65" height="36.87" as="geometry" />
+          <mxGeometry x="1916.35" y="2389" width="143.65" height="36.87" as="geometry" />
         </mxCell>
         <mxCell id="2uEnCLTzuKftnubdqHdh-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=67.5;entryPerimeter=0;" parent="1" source="2uEnCLTzuKftnubdqHdh-54" target="2uEnCLTzuKftnubdqHdh-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="633" y="2433" as="sourcePoint" />
-            <mxPoint x="683" y="2383" as="targetPoint" />
+            <mxPoint x="1913" y="2535" as="sourcePoint" />
+            <mxPoint x="1963" y="2485" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="496" y="2586" />
-              <mxPoint x="496" y="2313" />
+              <mxPoint x="1776" y="2688" />
+              <mxPoint x="1776" y="2415" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -964,8 +964,8 @@
             <mxPoint x="59" y="-135" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzqOeikUmSlwGY64S3m3-1" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;usage:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl &amp;lt;sub_command&amp;gt; &amp;lt;option&amp;gt; &amp;lt;args&amp;gt; [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_exporter -p 9100 [PACKAGE]&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl start_exporter&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl status_exporter&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl stop_exporter&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl remove_exporter&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl deploy_docker [PACKAGE]&lt;div&gt;crealife_ctl status_docker&lt;/div&gt;&lt;div&gt;crealife_ctl remove_docker&lt;br&gt;&lt;div&gt;crealife_ctl deploy_nginx -p 80 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl start_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl status_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl stop_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl remove_nginx&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_image -p 10100 [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl start_container [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl status_container [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl start_service&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;[ServiceName]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;crealife_ctl status_service [ServiceName]&lt;/div&gt;&lt;div&gt;crealife_ctl deploy_front -d /etc/nginx/wwwroot [PACKAGE]&lt;/div&gt;&lt;div&gt;crealife_ctl backup_front -v 1.0.0 [ServiceName]&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;crealife_ctl remove_front [ServiceName]&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-392" y="1400" width="349" height="431" as="geometry" />
+        <mxCell id="yzqOeikUmSlwGY64S3m3-1" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;Usage:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;crealife_ctl &amp;lt;sub-command&amp;gt; [options] package/service&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;Crealife App-Cluster Management Sub-Commands:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl cluster_init&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl cluster_join_manager -t $manager_token&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl cluster_join_worker -t $worker_token&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl cluster_members&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl cluster_remove_member -n $name&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;Crealife Basic Services Management Sub-Commands:&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl deploy_exporter -p 9100 $package&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl start_exporter&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl status_exporter&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;crealife_ctl stop_exporter&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;crealife_ctl remove_exporter&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-----------------------------------------------------------------&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;crealife_ctl deploy_docker $package&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl start_docker&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;crealife_ctl status_docker&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl stop_docker&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl remove_docker&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ----------------------------------------------------------------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl deploy_nginx -p 80 $package&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl start_nginx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl status_nginx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl stop_nginx&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl remove_nginx&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ----------------------------------------------------------------&lt;/div&gt;&lt;div&gt;Crealife Backimage Services Management Sub-Commands:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl deploy_image&amp;nbsp; $package&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl start_container&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;-p 10100&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;$container_name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl status_container $service_name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl stop_container $service_name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl remove_container $service_name&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl start_service&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;-p 10100&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;$service_name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl status_service $service_name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl remove_service $service_name&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -----------------------------------------------------------------&lt;/div&gt;&lt;div&gt;Crealife Frontend Applications Management Sub-Commands:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl deploy_front -d wwwroot $package&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl backup_front -v 1.0.0 $service_name&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;crealife_ctl remove_front $service_name&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ----------------------------------------------------------------&lt;/div&gt;&lt;div&gt;Crealife Systemd Services Management Sub-Commands:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;pass&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-392" y="1400" width="349" height="896" as="geometry" />
         </mxCell>
         <mxCell id="c_DQTFKBtuLMi1II6Nws-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c_DQTFKBtuLMi1II6Nws-10" target="MwUPUy6RkMqgH-ERM9w2-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -987,7 +987,7 @@
         <mxCell id="c_DQTFKBtuLMi1II6Nws-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c_DQTFKBtuLMi1II6Nws-54" target="c_DQTFKBtuLMi1II6Nws-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i1egfhpj4-X6gtWhYaBm-1" value="获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c_DQTFKBtuLMi1II6Nws-57">
+        <mxCell id="i1egfhpj4-X6gtWhYaBm-1" value="获取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="c_DQTFKBtuLMi1II6Nws-57" vertex="1" connectable="0">
           <mxGeometry x="-0.1472" y="2" relative="1" as="geometry">
             <mxPoint x="29" as="offset" />
           </mxGeometry>
@@ -1143,7 +1143,7 @@
         <mxCell id="_dnIJMTnnhfiKRJBlZA0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_dnIJMTnnhfiKRJBlZA0-1" target="_dnIJMTnnhfiKRJBlZA0-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i1egfhpj4-X6gtWhYaBm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_dnIJMTnnhfiKRJBlZA0-1" target="i1egfhpj4-X6gtWhYaBm-4">
+        <mxCell id="i1egfhpj4-X6gtWhYaBm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_dnIJMTnnhfiKRJBlZA0-1" target="i1egfhpj4-X6gtWhYaBm-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-532" y="-201" />
@@ -1209,10 +1209,10 @@
         <mxCell id="_dnIJMTnnhfiKRJBlZA0-33" value="发布CrealifeOps&lt;div&gt;正式版本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-978" y="-198" width="66" height="50.75" as="geometry" />
         </mxCell>
-        <mxCell id="i1egfhpj4-X6gtWhYaBm-2" value="点击更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i1egfhpj4-X6gtWhYaBm-2" value="点击更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-715" y="626" width="100" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="i1egfhpj4-X6gtWhYaBm-4" value="CodeReview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i1egfhpj4-X6gtWhYaBm-4" value="CodeReview" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-281.5" y="-181" width="70" height="29" as="geometry" />
         </mxCell>
       </root>
