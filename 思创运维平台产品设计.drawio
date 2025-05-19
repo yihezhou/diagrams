@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="2971" dy="1310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4090" dy="1512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1214,6 +1214,17 @@
         </mxCell>
         <mxCell id="i1egfhpj4-X6gtWhYaBm-4" value="CodeReview" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-281.5" y="-181" width="70" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="vlhYcVHAb0woqtFb9fEw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.766;exitDx=0;exitDy=0;strokeColor=#CC0066;exitPerimeter=0;" edge="1" parent="1" source="vlhYcVHAb0woqtFb9fEw-4" target="MwUPUy6RkMqgH-ERM9w2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlhYcVHAb0woqtFb9fEw-6" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vlhYcVHAb0woqtFb9fEw-5">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="7" y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vlhYcVHAb0woqtFb9fEw-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://opsbridge.tech/wp-content/uploads/2025/01/prometheus-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1171" width="133.23" height="133.23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
