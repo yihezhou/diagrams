@@ -283,7 +283,7 @@
         <mxCell id="H0pLZdyPVKQFM28tcbeX-249" value="sshd" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="20" y="1410" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H0pLZdyPVKQFM28tcbeX-250" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="H0pLZdyPVKQFM28tcbeX-250" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="20" y="1489" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzqOeikUmSlwGY64S3m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="H0pLZdyPVKQFM28tcbeX-250" target="yzqOeikUmSlwGY64S3m3-1" edge="1">
@@ -570,7 +570,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;global&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;public_key&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="236" y="1536" width="52.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-29" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-29" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="246" y="1489" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-30" value="/CrealifeOps-Slave/Install" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
@@ -610,7 +610,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-36" value="sshd" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="502" y="1410" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-37" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-37" value="crealife_ctl" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="502" y="1489" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-38" value="/CrealifeOps-Slave/Install" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
