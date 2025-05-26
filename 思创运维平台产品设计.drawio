@@ -663,7 +663,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-46" target="MwUPUy6RkMqgH-ERM9w2-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点&lt;div&gt;至扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-962" y="284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-47" value="新建集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
