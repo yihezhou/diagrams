@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="3033" dy="1464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3769" dy="2138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -636,16 +636,21 @@
         <mxCell id="c_DQTFKBtuLMi1II6Nws-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-41" target="MwUPUy6RkMqgH-ERM9w2-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-41" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;font-family: PingFangSC-Light; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;安装CrealifeOps&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: PingFangSC-Light; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;到Master节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-41" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;安装CrealifeOps&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;到Master节点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="66" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-42" value="平台自动创建&lt;div&gt;软件包&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;扫描区&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-999" y="66" width="120" height="60" as="geometry" />
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-42" value="平台自动创建&lt;div&gt;软件包根&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;扫描区&lt;/span&gt;&lt;/div&gt;&lt;div&gt;/CrealifeOps-Master/ScanSpace&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-999" y="66" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" target="MwUPUy6RkMqgH-ERM9w2-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-43" value="平台用户完成&lt;div&gt;业务软件包&lt;div&gt;到扫描区的集成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zKbONX868gP9GitJ687w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-964" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-43" value="平台用户完成&lt;div&gt;业务软件包&lt;div&gt;到扫描区的集成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="176" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_DQTFKBtuLMi1II6Nws-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-44" target="MwUPUy6RkMqgH-ERM9w2-43" edge="1">
@@ -657,13 +662,13 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-45" target="MwUPUy6RkMqgH-ERM9w2-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-45" value="平台用户登录CrealifeOps管理界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-45" value="平台用户登录CrealifeOps管理界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-46" target="MwUPUy6RkMqgH-ERM9w2-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点&lt;div&gt;至扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点&lt;div&gt;至本人某个扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-962" y="284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-47" value="新建集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -675,7 +680,7 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-48" target="MwUPUy6RkMqgH-ERM9w2-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-48" value="用户查看扫描区&lt;div&gt;待安装的软件包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-48" value="用户查看本人扫描区&lt;div&gt;待安装的软件包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1433.06" y="440.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-49" target="MwUPUy6RkMqgH-ERM9w2-50" edge="1">
@@ -1259,6 +1264,15 @@
           <mxGeometry x="-0.4552" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zKbONX868gP9GitJ687w-1" value="平台管理员admin&lt;div&gt;创建用户并绑定此用户到&lt;/div&gt;&lt;div&gt;一个或多个扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-798" y="176" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKbONX868gP9GitJ687w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKbONX868gP9GitJ687w-3" target="zKbONX868gP9GitJ687w-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKbONX868gP9GitJ687w-3" value="平台自动同步&lt;div&gt;扫描区到CMDB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-963" y="176" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
