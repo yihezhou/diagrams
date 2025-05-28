@@ -1268,6 +1268,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKbONX868gP9GitJ687w-1" target="IlT_otB41iXm_ZuBAr8u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zKbONX868gP9GitJ687w-1" value="平台管理员admin&lt;div&gt;创建用户&lt;/div&gt;&lt;div&gt;并绑定此用户到&lt;/div&gt;&lt;div&gt;当前或多个扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-798" y="176" width="141" height="60" as="geometry" />
         </mxCell>
@@ -1279,6 +1282,9 @@
         </mxCell>
         <mxCell id="IlT_otB41iXm_ZuBAr8u-1" value="平台内置&lt;div&gt;admin用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-751" y="66" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-3" value="admin退出登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-593.56" y="176" width="65.56" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
