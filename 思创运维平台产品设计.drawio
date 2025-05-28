@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="2910" dy="1311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2671" dy="1109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1328,7 +1328,7 @@
         <mxCell id="IlT_otB41iXm_ZuBAr8u-9" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;service_type=cluster|node&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;target_ip=x.x.x.x&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="676" y="1521" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IlT_otB41iXm_ZuBAr8u-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;CMDB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;service_list_api&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680.5" y="1566" width="51" height="18" as="geometry" />
         </mxCell>
       </root>
