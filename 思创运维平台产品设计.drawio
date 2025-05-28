@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="3177" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3245" dy="1595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,13 +639,16 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-41" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;安装CrealifeOps&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;到Master节点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1159" y="66" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-42" target="IlT_otB41iXm_ZuBAr8u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-42" value="平台自动创建&lt;div&gt;软件包根&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;扫描区&lt;/span&gt;&lt;/div&gt;&lt;div&gt;/CrealifeOps-Master/ScanSpace&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-999" y="66" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" target="MwUPUy6RkMqgH-ERM9w2-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zKbONX868gP9GitJ687w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43">
+        <mxCell id="zKbONX868gP9GitJ687w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-964" y="206" as="targetPoint" />
           </mxGeometry>
@@ -668,11 +671,11 @@
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-46" target="MwUPUy6RkMqgH-ERM9w2-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;至本人某个扫描区&lt;/span&gt;&lt;div&gt;(CMDB已注册服务的状态通过：扫描区-&amp;gt;节点-&amp;gt;服务实例的级别顺序获取)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-962" y="284" width="165" height="60" as="geometry" />
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-46" value="添加节点&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;至本人某个扫描区&lt;/span&gt;&lt;div&gt;(CMDB已注册服务的状态通过：用户-&amp;gt;扫描区-&amp;gt;节点/集群-&amp;gt;服务实例的级别顺序获取)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-962" y="284" width="212" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MwUPUy6RkMqgH-ERM9w2-47" value="新建集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750.44" y="284" width="94" height="60" as="geometry" />
+        <mxCell id="MwUPUy6RkMqgH-ERM9w2-47" value="&lt;div&gt;选择扫描区&lt;/div&gt;新建集群" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-722" y="284" width="65.56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-58" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1546" y="393" width="434" height="434" as="geometry" />
@@ -768,7 +771,7 @@
           <mxGeometry x="-862" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-68" value="服务版本&lt;div&gt;变更完成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-862" y="711" width="120" height="60" as="geometry" />
+          <mxGeometry x="-862" y="743.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MwUPUy6RkMqgH-ERM9w2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MwUPUy6RkMqgH-ERM9w2-45" target="MwUPUy6RkMqgH-ERM9w2-62" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1000,8 +1003,8 @@
         <mxCell id="c_DQTFKBtuLMi1II6Nws-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.user;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="-1349" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c_DQTFKBtuLMi1II6Nws-55" value="平台用户(运维工程师）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1400" y="14" width="142" height="26" as="geometry" />
+        <mxCell id="c_DQTFKBtuLMi1II6Nws-55" value="平台管理员(运维工程师）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1406" y="14" width="154" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c_DQTFKBtuLMi1II6Nws-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c_DQTFKBtuLMi1II6Nws-54" target="MwUPUy6RkMqgH-ERM9w2-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1265,14 +1268,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zKbONX868gP9GitJ687w-1" value="平台管理员admin&lt;div&gt;创建用户并绑定此用户到&lt;/div&gt;&lt;div&gt;一个或多个扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zKbONX868gP9GitJ687w-1" value="平台管理员admin&lt;div&gt;创建用户&lt;/div&gt;&lt;div&gt;并绑定此用户到&lt;/div&gt;&lt;div&gt;当前或多个扫描区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-798" y="176" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zKbONX868gP9GitJ687w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKbONX868gP9GitJ687w-3" target="zKbONX868gP9GitJ687w-1">
+        <mxCell id="zKbONX868gP9GitJ687w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zKbONX868gP9GitJ687w-3" target="zKbONX868gP9GitJ687w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zKbONX868gP9GitJ687w-3" value="平台自动同步&lt;div&gt;扫描区到CMDB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zKbONX868gP9GitJ687w-3" value="平台自动同步&lt;div&gt;扫描区到CMDB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-963" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-1" value="平台内置&lt;div&gt;admin用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="66" width="94" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
