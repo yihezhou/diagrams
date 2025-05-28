@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="WmCBzYUsToEdSdzeFOnP">
-    <mxGraphModel dx="2630" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2910" dy="1311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1309,7 +1309,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IlT_otB41iXm_ZuBAr8u-11" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;read&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IlT_otB41iXm_ZuBAr8u-10">
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-11" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;read cfg&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IlT_otB41iXm_ZuBAr8u-10">
           <mxGeometry x="-0.2597" relative="1" as="geometry">
             <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
@@ -1317,8 +1317,19 @@
         <mxCell id="IlT_otB41iXm_ZuBAr8u-7" value="crealife_exporter" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="574" y="1489" width="92" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IlT_otB41iXm_ZuBAr8u-9" target="IlT_otB41iXm_ZuBAr8u-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-16" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;read&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IlT_otB41iXm_ZuBAr8u-15">
+          <mxGeometry x="0.7005" relative="1" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IlT_otB41iXm_ZuBAr8u-9" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;service_type=cluster|node&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;target_ip=x.x.x.x&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="676" y="1525" width="60" height="35" as="geometry" />
+          <mxGeometry x="676" y="1521" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IlT_otB41iXm_ZuBAr8u-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;CMDB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680.5" y="1566" width="51" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
