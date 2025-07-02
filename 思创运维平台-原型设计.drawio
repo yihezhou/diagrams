@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="1677" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1539,10 +1539,10 @@
           <mxGeometry x="1010" y="6310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NHn7zFwYGDu8gmdd0BOk-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1525" y="6430" width="335" height="130" as="geometry" />
+          <mxGeometry x="1525" y="6430" width="405" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NHn7zFwYGDu8gmdd0BOk-13" value="删除确认&lt;div&gt;确定要删除集群【App-Cluster2】？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="6468" width="210" height="40" as="geometry" />
+        <mxCell id="NHn7zFwYGDu8gmdd0BOk-13" value="删除确认&lt;div&gt;确定要移除manager并删除集群【App-Cluster2】？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1595" y="6468" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NHn7zFwYGDu8gmdd0BOk-14" value="取消" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="6520" width="50" height="30" as="geometry" />
@@ -2742,22 +2742,22 @@
         <mxCell id="9z25vRCR0TdNc61Q1ogW-193" value="Windows 部署" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="368" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;manager&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;manager&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="6220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.833;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-5" target="oKg16WjOSUmpq3OuxbV8-1">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.833;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" parent="1" source="lBwW1mapVIc5IlXxpcrd-5" target="oKg16WjOSUmpq3OuxbV8-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;worker&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;worker&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="6320" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="lBwW1mapVIc5IlXxpcrd-7" target="oKg16WjOSUmpq3OuxbV8-4">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" parent="1" source="lBwW1mapVIc5IlXxpcrd-7" target="oKg16WjOSUmpq3OuxbV8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;member&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;not online&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;member&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;not online&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="841.88" y="6315" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oKg16WjOSUmpq3OuxbV8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.862;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="NHn7zFwYGDu8gmdd0BOk-5" target="oKg16WjOSUmpq3OuxbV8-6">
+        <mxCell id="oKg16WjOSUmpq3OuxbV8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.862;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;" parent="1" source="NHn7zFwYGDu8gmdd0BOk-5" target="oKg16WjOSUmpq3OuxbV8-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
