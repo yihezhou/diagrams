@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="jSlEA7Z82A5dx9JD-4lL">
-    <mxGraphModel dx="890" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2768,7 +2768,7 @@
         <mxCell id="ubGidZaF7p9tKvamaIVG-3" value="&lt;font color=&quot;#000099&quot;&gt;添加&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1147.5" y="7298" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ubGidZaF7p9tKvamaIVG-4" value="/crealife/configs/appsettting.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ubGidZaF7p9tKvamaIVG-4" value="/data/configs/appsettting.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="7330.5" width="185" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="ubGidZaF7p9tKvamaIVG-5" value="/data/appsettings.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2777,7 +2777,7 @@
         <mxCell id="ubGidZaF7p9tKvamaIVG-6" value="：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="972.5" y="7325.25" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ubGidZaF7p9tKvamaIVG-7" value="/crealife/logs/CrealifeUser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ubGidZaF7p9tKvamaIVG-7" value="/data/logs/CrealifeUser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="7365" width="185" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="ubGidZaF7p9tKvamaIVG-8" value="/data/CrealifeUser/logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
